@@ -1,0 +1,302 @@
+[
+    {
+        "description": "O auxiliar logístico I estava em atividade de reverse com transpaleteira elétrica dupla na área de Full e durante a atividade, ele parou com equipamento na marginal para verificar a posição correta da tarefa. Após concluir a verificação, saiu com equipamento no sentido reverse sem buzinar e/ou olhar para o trajeto, colidindo contra a empilhadeira que manobrava após compra de palete junto a via marginal. Com impacto da colisão, o Log I bateu sua face na estrutura da transpaleteira.",
+        "incident_type": "MTC", 
+        "root_cause": "MHE"
+    },
+    {
+        "description": "Durante o processo de conferência e guarda de materiais recebidos em palete misto (rolos de cabos e cintas-poste) próximo a coluna estrutural do prédio, o assistente de almoxarifado DHL iniciou a retirada das cintas-poste que estavam ao lado dos rolos, quando o rolo de cabo que estava na posição vertical posicionado no topo da pilha se desestabilizou e adernou lateralmente, prensando a mão do auxiliar junto a coluna estrutural.",
+        "incident_type": "Others Injuries", 
+        "root_cause": "Manual handling"
+    },
+    {
+        "description": "O auxiliar Logístico I realizava a atividade na máquina Shirink quando o filme strech enroscou. Para desenroscar o filme strech o colaborador abaixou-se sob a esteira do equipamento para desenroscar o filme. Neste momento, ele levantou-se batendo a sua cabeça contra a estrutura metálica da esteira causando um corte superficial em sua cabeça.",
+        "incident_type": "Others Injuries", 
+        "root_cause": "N/A"
+    },
+    {
+        "description": "O Auxiliar Logístico I executava atividade de movimentação de paletes no inbound. De acordo com as imagens, o colaborador tentou retirar o palete com o carrinho hidráulico pela diagonal e pela lateral do palete. Neste momento, ao aplicar uma força excessiva para puxar o carrinho hidráulico, ele sofreu uma contusão no seu ombro esquerdo",
+        "incident_type": "Others Injuries", 
+        "root_cause": "Manual handling"
+    },
+    {
+        "description": "O Auxiliar de Armazém carregava manualmente caixas de materiais tipo Merchandising dentro da carreta. Quando, foi identificada a necessidade de retirar uma das caixas de dentro da carreta. Ao se deslocar até a carreta que não estava mais posicionada na doca, ele retirou a caixa e tentou posicionar sob o palete na doca. Neste momento, a caixa desequilibrou-se de uma das mãos e ao tentar segura-la a caixa prensou o seu 2ºdedo da mão esquerda contra o trilho metálico de limitação da doca causando uma contusão.Nota: Colaborador utilizava luva de segurança.",
+        "incident_type": "Others Injuries", 
+        "root_cause": "Manual handling"
+    },
+    {
+        "description": "A Auxiliar Logística I armazenava uma palete com uma pilha de caixas de produtos. Ao tentar centralizar a pilha de caixas no palete puxando pela alça de apoio da 1º caixa, neste momento, a alça não suportou o peso e rasgou, provocando um corte superficial no 4º dedo da mão direita.",
+        "incident_type": "Others Injuries", 
+        "root_cause": "Manual handling"
+    },
+    {
+        "description": "O Auxiliar Logístico I reabastecia o picking utilizando um carrinho hidráulico. Ao puxar o carrinho (com produto de 1150 kg) de frente. Quando, ele tentou desviar de um buraco no piso antes de acessar a rua do seu lado direito. Neste momento, ele tentou girar na frente do carrinho em movimento para puxar o carrinho de costas, quando a roda do carrinho hidráulico passou por cima do seu pé direito causando uma contusão.",
+        "incident_type": "MTC", 
+        "root_cause": "Manual handling"
+    },
+    {
+        "description": "O Auxiliar Logístico II antes de iniciar a atividade de carregamento do caminhão, identificou que sua porta traseira estava fechada com um lacre metálico de segurança. Por não ser comum, ele decidiu retirar manualmente o lacre sem o uso de nenhuma ferramenta e/ou luva de segurança. Neste momento, ao puxar o lacre com sua mão direita o seu 4º dedo deslizou sobre a superfície metálica causando um corte superficial.",
+        "incident_type": "Others Injuries", 
+        "root_cause": "Manual handling"
+    },
+    {
+        "description": "O Operador de Empilhadeira separava peça (cruzeta polimérica de 23kg) no blocado na área externa. Como o layout do blocado tem pequenos espaços previstos entre os materiais deixados para segurança nas movimentações de carga com equipamentos, ele entrou no espaço restrito para retirar uma peça. Neste momento, ao puxar a peça pela extremidade arrastando para fora do palete, a peça desequilibrou de suas mãos caindo sobre seu pé direito causando uma contusão.",
+        "incident_type": "Others Injuries", 
+        "root_cause": "Manual handling"
+    },
+    {
+        "description": "Os Auxiliares Logísticos (A e B) movimentava o equipamento (Trolley) de portas. Ao tentar realizar a curva, o colaborador B (condutor) posicionado na frente do equipamento não calculou o espaço necessário para realizar a curva colidindo contra o protetor contra colisão (pirulito) . Neste momento, o colaborador (A) que estava na parte traseira do equipamento foi projetado contra a placa de identificação colidindo a sua cabeça contra a placa causando um corte superficial na cabeça.",
+        "incident_type": "MTC", 
+        "root_cause": "MHE"
+    },
+    {
+        "description": "O Auxiliar Logístico (A) descarregava produtos a granel com outros dois Auxiliares Logísticos ( B e C ) no interior da carreta. Quando o colaborador (C) entrou com o carrinho hidráulico dentro da carreta para retirar o palete pronto, ele inseriu completamente os garfos do equipamento no palete até a sua saída da extremidade do lado oposto do palete e atingiu o pé direito do colaborador (A) causando uma contusão. ",
+        "incident_type": "Others Injuries", 
+        "root_cause": "Manual handling"
+    },
+    {
+        "description": "A Auxiliar Logístico separava peças (SHIELD) para atendimento de linha sem uso de luvas de segurança. Ao finalizar a separação, ela retirou as luvas para ajustar a bandeja de papelão na caixa e fecha-la. Ao pressionar excessivamente a bandeja de papelão seu dedo polegar esquerdo bateu contra uma das peças que possui laterais finas causando um corte superficial. ",
+        "incident_type": "Others Injuries", 
+        "root_cause": "Manual handling"
+    },
+    {
+        "description": "O Operador de Empilhadeira movimentava carga na área externa com uma empilhadeira GLP. Quando, ele observou que tinha um plástico preso no sistema de resfriamento do equipamento (ventoinha) que provocava o aumento da temperatura. Ao parar o equipamento e abrir o capô para retirar o plástico, ele observou uma mangueira solta no motor. Neste momento, ele abriu a tampa do reservatório de água (radiador) projetando a água quente sobre sua mão direita causando uma queimadura.Nota: O operador utilizava luva de segurança durante essa etapa.",
+        "incident_type": "Others Injuries", 
+        "root_cause": "MHE"
+    },
+    {
+        "description": "A Auxiliar de Logístico retirava caixas seladas do forno de plastificação de caixa simultaneamente conversava com o outro Auxiliar de Logístico. Ao sair da última caixa do forno e depositar no palete. Quando, ela apoiou sua mão sobre a esteira em movimento, neste momento, a sua mão esquerda foi projetada entre os roletes metalicos e a esteira causando uma contusão da mão. ",
+        "incident_type": "Others Injuries", 
+        "root_cause": "Manual handling"
+    },
+    {
+        "description": "O Auxiliar Logístico realizava picking com um carrinho de produtos (tubos de aquecimento). Ao tentar retirar o carrinho, ele sentiu dificuldade e precisou utilizar uma força adicional para puxar. Neste momento, o carrinho colidiu contra a lateral superior da pilha de caixa tipo mobil (50kg cada) projetando a caixa na direção do colaborador batendo contra a sua cabeça causando corte.",
+        "incident_type": "MTC", 
+        "root_cause": "MHE"
+    },
+    {
+        "description": "O Auxiliar Logístico I (PCD intelectual) realizava enchimento de plastico Air Cushions na área de telas utilizando uma pistola de ar comprimido. Ao movimentar seu braço direito ele bateu contra o display do manômetro do ar comprimido que estava sem a proteção de acrílico causando um corte superficial. ",
+        "incident_type": "Others Injuries", 
+        "root_cause": "Manual handling"
+    },
+    {
+        "description": "O Operador de Equipamentos móveis movimentava palete com uma empilhadeira pantográfica. Ao tentar movimentar um palete no stage de conferência, ele precisou desviar do um palete com carrinho hidráulico do seu lado esquerdo. Neste momento, o palete sobre os garfos da empilhadeira bateu contra palete no stage do seu lado direito projetando contra o pé do Auxiliar Logístico prensando o seu pé direito entre os paletes causando uma contusão. ",
+        "incident_type": "Others Injuries", 
+        "root_cause": "Manual handling"
+    },
+    {
+        "description": "A Analista de Atendimento ao Cliente iniciava suas atividades na sala administrativa de Transportes. Ao tentar colocar o headset na sua cabeça, ela não observou que o seu dedo da mão direita prendeu no brinco. Neste momento, ela movimentou a sua mão direita puxando o brinco para baixo causando um corte na parte inferior da sua orelha esquerda.",
+        "incident_type": "MTC", 
+        "root_cause": "N/A"
+    },
+    {
+        "description": "A Auxiliar Logística separava caixas de produtos numa pilha com 7 níveis de caixas (altura de 1,75) na área de picking. Quando, ela puxou uma caixa para frente no sistema de “escadinha”, uma das caixas desequilibrou da pilha caindo sobre a sua mão esquerda causando uma fratura (trica) no 5°dedo.",
+        "incident_type": "Others Injuries", 
+        "root_cause": "Manual handling"
+    },
+    {
+        "description": "O Auxiliar Logístico carregava caminhão com uma transpaleteira elétrica. Antes de iniciar o processo de carregamento, ele não realizou por completo a inspeção visual do veiculo. Ao acessar o interior do caminhão com a transpaleteira para armazenar palete, ele não observou uma corda de amarração no percurso próximo ao final do baú. Neste momento, o seu rosto bateu contra a corda causando uma escoriação no nariz e o projetou para fora do equipamento",
+        "incident_type": "Others Injuries", 
+        "root_cause": "MHE"
+    },
+    {
+        "description": "O Operador de Empilhadeira expedia manualmente as bobinas de cabos. Ao rolar manualmente a bobina apoiando suas mãos na extremidade, ele não observou o prego na extremidade da madeira. Neste momento, ao girar a bobina o prego atingiu a sua mão esquerda perfurando a luva de segurança atingindo o seu 3° dedo causando um corte superficial.",
+        "incident_type": "MTC", 
+        "root_cause": "Manual handling"
+    },
+    {
+        "description": "O Operador de Empilhadeira armazenava palete na estrutura do Rack com uma empilhadeira retrátil. Ao posicionar o palete na ultima posição, ele não observou que as caixas de produtos do palete do lado estava mal acondicionado. Quando, o palete colidiu contra o outro provocando a queda de duas caixas de produtos químicos liquidos (“Veja Gold”) sobre o teto da empilhadeira danificando as caixas. Neste momento, uma das embalagem do produto espirrou em direção ao rosto do colaborador (que usava óculos de segurança) causando uma irritação no seu olho.",
+        "incident_type": "Others Injuries", 
+        "root_cause": "MHE"
+    },
+    {
+        "description": "O Auxiliar Logístico antes do início do turno preparava seu café da manhã no refeitório do condomínio. Ao contornar a fila para esquentar o seu pão equipamento (sanduicheira), ele não observou um obstáculo no percurso. Quando tropeçou o seu pé esquerdo no obstáculo projetando o seu corpo em direção a mesa, neste momento, ele tentou apoiar a sua mão esquerda na parte externa do equipamento causando uma queimadura superficial.",
+        "incident_type": "Others Injuries", 
+        "root_cause": "N/A"
+    },
+    {
+        "description": "O Auxiliar Logístico movimentava matérias com um rebocador elétrico aclomplado a uma carretinha tipo “Biga”. Ao finalizar o carregamento de matérias na carretinha, ele tentou fechar a tampa frontal. Quando, a tampa enroscou e retornou em direção ao piso, neste momento, ele tentou segurar a tampa com a mão direita que foi pressionada contra o piso causando uma escoriação no seu 4°dedo.",
+        "incident_type": "Others Injuries", 
+        "root_cause": "MHE"
+    },
+    {
+        "description": "O Auxiliar de Armazém separava caixa de produtos na estrutura do Rack. Quando, o colaborador retirou um caixa para colocar sobre o palete, ele não observou a altura da 1° longarina. Neste momento, ele bateu a sua cabeça contra a longarina causando uma contusão.",
+        "incident_type": "MTC", 
+        "root_cause": "Manual handling"
+    },
+    {
+        "description": "O Auxiliar Logístico separava manualmente cabos de alumínio armazenados em prateleiras. Ao tentar retirar com sua mão esquerda um cabo posicionado no 1° nível da prateleira, ele não observou que o cabo armazenado no 2° nível estava com a ponta exposta para fora. Neste momento, o seu braço esquerdo bateu contra a ponta do cabo causando uma escoriação.",
+        "incident_type": "Others Injuries", 
+        "root_cause": "Manual handling"
+    },
+    {
+        "description": "O Auxiliar Logístico separava caixas na área de picking com uma transpaleteira elétrica. Ao parar o equipamento na posição para realizar a atividade, ele desceu lateralmente do equipamento descumprindo o procedimento de descida e subida do equipamento. Neste momento, ele se desequilibrou ao pisar com a extremidade do pé causando uma contusão no seu pé direito.",
+        "incident_type": "Others Injuries", 
+        "root_cause": "MHE"
+    },
+    {
+        "description": "A Auxiliar Logística consolidava manualmente produtos em uma caixa de plástico na área do outbound. Quando, ela segurava a caixa de papelão pela extremidade para realizar o transbordo na caixa de plástico. Neste momento, ao colocar a caixa dentro da outra, a sua mão direita prensou entre as caixas causando escoriação uma 3º dedo da mão.",
+        "incident_type": "Others Injuries", 
+        "root_cause": "Manual handling"
+    },
+    {
+        "description": "O Operador de Empilhadeira carregava palete de produto na carreta. Ao finalizar o processo, ele tentou travar a porta da carreta com o seu pé direito. Neste momento, ele perdeu o equilíbrio e caiu entre a doca e a carreta batendo com a suas costas na traseira da carreta causando uma contusão.",
+        "incident_type": "MTC", 
+        "root_cause": "Manual handling"
+    },
+    {
+        "description": "A Auxiliar Logística preenchia o check list da transpaleteira realizando alguns testes. Como o equipamento apresentou problema para ligar, ela tentou conduzir o equipamento para sala de manutenção acessando uma curva a direita. Quando, o equipamento parou repentinamente projetando a colaboradora para fora do equipamento. Neste momento, ela bateu com a cabeça no piso causando uma contusão na cabeça.",
+        "incident_type": "MTC", 
+        "root_cause": "MHE"
+    },
+    {
+        "description": "A Auxiliar Logística realizava a atividade de retrabalho utilizando uma tesoura. Quando, ela pegou com a sua mão direita a tesoura segurando-a pela lamina na posição aberta para guardar em baixo da bancada de trabalho. Neste momento, ela encostou o seu 4°dedo da mão direita causando um corte superficial.Obs: Não estava utilizando a luva de fio de aço conforme procedimento.",
+        "incident_type": "Others Injuries", 
+        "root_cause": "Manual handling"
+    },
+    {
+        "description": "O Operador de Empilhadeira separava e transportava manualmente uma caixa de madeira (30kg). Ao tentar retirar a caixa, ele não observou que embaixo da 1°longarina havia um palete com a extremidade para fora da estrutura. Quando, ele tropeçou provocando o seu desequilíbrio. Neste momento, a caixa de madeira caiu sobre sua mão esquerda causando uma contusão no 3° dedo.",
+        "incident_type": "Others Injuries", 
+        "root_cause": "Manual handling"
+    },
+    {
+        "description": "O Auxiliar Logístico ‘A’ e Auxiliar Logístico ‘B’ trocavam a bateria da transpaleteira. Ao retirarem a bateria e posicionava sobre o trocador manual, a bateria travou na metade do trocador. Quando, o Auxiliar ‘A’ tentou puxar a bateria para dentro do equipamento. Neste momento, a bateria prensou a sua mão direita contra a lateral do equipamento causando uma fratura no 5° dedo da mão direita.",
+        "incident_type": "Others Injuries", 
+        "root_cause": "MHE"
+    },
+    {
+        "description": "O Auxiliar Logístico II ‘B’ realizava a troca de bateria. Durante a troca o Auxiliar Logístico ‘A’ sofreu um acidente no dia 28 de abril. Quando, o Auxiliar ‘B” tentou realizar a simulação do acidente posicionando sua mão direita entre a bateria e a transpaleteira. Neste momento, ao movimentar a bateria ele teve sua mão direita prensada causando um corte superficial no 5°dedo.",
+        "incident_type": "Others Injuries", 
+        "root_cause": "MHE"
+    },
+    {
+        "description": "O Auxiliar Logístico movimentava contentores de plástico com gelo em gel com uma haste de ferro. Ao puxar uma pilha com 7 contentores, um deles quebrou ocasionando a instabilidade da pilha. Neste momento, os 3 contentores de aproximadamente 18 kg cada caiu sobre as costas de uma outra Auxiliar Logística que realizava atividade de montagem de linha nas esteiras",
+        "incident_type": "Others Injuries", 
+        "root_cause": "Manual handling"
+    },
+    {
+        "description": "O Operador de Empilhadeira empurrava manualmente uma caixa de madeira (gabinete) apoiada sobre as rodas de movimentação. Quando, ele movimentou a caixa para o local de armazenamento uma das rodas desprendeu. Neste momento, a caixa tombou em direção ao colaborador atingindo a sua perna direita causando uma contusão.",
+        "incident_type": "MTC", 
+        "root_cause": "Manual handling"
+    },
+    {
+        "description": "O Auxiliar Logístico deslocava se ao estacionamento para acessar o seu veiculo. Quando, ele acionou o dispositivo de abertura do torniquete e simultaneamente tentou passar. Neste momento, o torniquete travou e voltou em direção ao rosto do colaborador colidindo contra a sua boca causando um corte superficial.",
+        "incident_type": "Others Injuries", 
+        "root_cause": "N/A"
+    },
+    {
+        "description": "O Assistente de Tarefas ao finalizar o seu turno de trabalho e deslocou se em direção a saída da sala administrativa. Ao tentar sair rapidamente da sala girando a fechadura da porta, ele teve o seu 1°dedo da mão direita prensado na fechadura causando um corte.",
+        "incident_type": "Others Injuries", 
+        "root_cause": "N/A"
+    },
+    {
+        "description": "Ao finalizar o carregamento do caminhão tipo sider, o Auxiliar Logístico iniciou a montagem das travessas laterais do caminhão. Por ter uma estatura baixa, ele posicionou primeiro o lado direito e ao tentar colocar o lado esquerdo a outra extremidade se soltou da travessa horizontal. Neste momento, a travessa metálica caiu sobre a sua mão esquerda causando uma fratura no 1°dedo.",
+        "incident_type": "Others Injuries", 
+        "root_cause": "Manual handling"
+    },
+    {
+        "description": "O Auxiliar Logístico acionava manualmente a niveladora de doca. Como o cabo de acionamento da nivelador de doca estava com defeito, ele precisou acionar a niveladora da doca pelo lado externo. Neste momento, ele empurrou a niveladora para cima causando uma contusão no ombro esquerdo.",
+        "incident_type": "Others Injuries", 
+        "root_cause": "Manual handling"
+    },
+    {
+        "description": "O Auxiliar de Logístico movimentava palete de produto. Ao observar que o palete estava mal estrechados, ele precisou strechar novamente o palete que estava sobre a niveladora da doca de carregamento. Quando, ele iniciou a colocação do stretch ao redor do palete, neste momento, ele pisou fora da niveladora da doca provocando a sua queda no piso inferior causando um corte na costas.Nota: O guarda corpo da doca, havia sido retirado para manutenção.",
+        "incident_type": "MTC", 
+        "root_cause": "Manual handling"
+    },
+    {
+        "description": "O Auxiliar Logístico realizava a coleta de gaiola na linha de produção com uma transpaleteira elétrica. Ao observar que a gaiola ao ser coletada estava fora do layout definido, ele precisou parar e descer do equipamento para arrumar a gaiola. Neste momento, ele pisou incorretamente com a lateral do seu pé esquerdo no piso causando uma torção no tornozelo esquerdo.",
+        "incident_type": "MTC", 
+        "root_cause": "MHE"
+    },
+    {
+        "description": "O Auxiliar de Armazém auxiliava os colaboradores da etiquetagem para retirar um armário para descarte que estava armazenado na área operacional com dois carrinhos hidráulicos. Quando, ao movimentar o armário, ele perdeu a estabilidade provocando a sua queda em direção a perna colaborador causando uma escoriação na sua perna esquerda",
+        "incident_type": "Others Injuries", 
+        "root_cause": "Manual handling"
+    },
+    {
+        "description": "O Auxiliar de Operações montava carga estiva dentro do caminhão e colocava placas de madeira para dar estabilidade. Simultaneamente o Conferente observou que havia produtos sobrando no stage, ao seguir o procedimento de registro fotográfico, ele acionou a niveladora da doca para registrar a foto com a placa do veiculo. Quando, o Auxiliar tentou posicionar a ultima placa de madeira, ele não observou o espaço entre o piso do caminhão e a doca. Neste momento, a sua perna esquerda caiu no vão causando um luxação no joelho esquerdo.",
+        "incident_type": "MTC", 
+        "root_cause": "Manual handling"
+    },
+    {
+        "description": "Os Auxiliares Logísticos trocavam a bobina de filme plástico da maquina seladora. Ao iniciar o processo de troca com o equipamento no modo Setup (controle manual), o colaborador “B” posicionou seu braço direito sobre o equipamento para tentar unir as pontas do filme plástico, simultaneamente o colaborador “A” realizou o start do equipamento no painel de controle. Neste momento, a barra da seladora retornou para a posição inicial prensando o braço do colaborador “B” causando uma contusão no cotovelo e antebraço.",
+        "incident_type": "Others Injuries", 
+        "root_cause": "MHE"
+    },
+    {
+        "description": "O Motorista movimentava a carreta pátio externo em direção a área da Braskem AG. Ao parar o caminhão, ele observou uma pedra (tipo paralelepípedo) entre os pneus do caminhão. Quando, ele tentou retirar a pedra com barra de madeira. Neste momento, a barra se soltou da sua mão direita projetando contra a mão esquerda apoiada sobre o suporte lateral causando uma contusão.",
+        "incident_type": "MTC", 
+        "root_cause": "Manual handling"
+    },
+    {
+        "description": "O Auxiliar de Limpeza - Brasanitas (1) movimentava o coletor de resíduos para área externa. Como ele não conseguiu abrir a porta, o Assistente de Segurança (2) pró-ativamente tentou forçar a abertura da porta. Quando, o Assistente de Segurança posicionou mão esquerda entre a trava e o batente na porta, neste momento, a trava se soltou prensando o 1°dedo causando um corte superficial.",
+        "incident_type": "MTC", 
+        "root_cause": "Manual handling"
+    },
+    {
+        "description": "A Auxiliar Logístico I realizava a atividade de organização (5S) da área. Ao girar manualmente um pallet vazio da posição de stage e deslocá-lo para outra posição, uma farpa do pallet entrou em sua mão esquerda, causando um perfuração.",
+        "incident_type": "Others Injuries", 
+        "root_cause": "Manual handling"
+    },
+    {
+        "description": "A analista de transporte Jr. caminhava nas dependências do condomínio em seu horário de almoço, quando ao passar por um desnível próximo a um jardim, desequilibrou-se e teve uma entorse no tornozelo esquerdo.",
+        "incident_type": "Others Injuries", 
+        "root_cause": "Escorregão/ Tropeço"
+    },
+    {
+        "description": "O operador logístico auxiliava a profissional de ergonomia que executava medições de força aplicada com o auxílio de um dinanômetro. O operador ao puxar a alavanca da niveladora de doca, a alça do dinanômetro se desprendeu, o que causou um desequilíbrio no colaborador, que veio a cair da doca ao piso. Ao tentar se segurar na niveladora, o colaborador acabou sofrendo um corte no dedo médio da mão esquerda.",
+        "incident_type": "Others Injuries", 
+        "root_cause": "Manual handling"
+    },
+    {
+        "description": "O Auxiliar logístico ao retornar do almoço se dirigiu a sua área de trabalho para iniciar as suas atividades. No percurso, ele identificou um carrinho metálico obstruindo a passagem. Nesse momento, para remover o carrinho do local, o auxiliar posicionou suas mãos sobre o carrinho, que estava uma rebarba metálica exposta, causando um corte em seu dedo anelar da mão direita.",
+        "incident_type": "Others Injuries", 
+        "root_cause": "Manual handling"
+    },
+    {
+        "description": "O auxiliar logístico realizava o recebimento de material de escritório com carrinho hidráulico. Ao retirar um palete do interior do veículo e acessar a rampa da niveladora de doca, o colaborador perdeu o controle do palete e soltou o carrinho que se deslocou em direção a grade que segrega a área. Nesse momento, o analista de transporte estava próximo a grade e, ao tentar se proteger do palete que vinha em sua direção, teve sua mão prensada entre o palete e grade, causando uma contusão no seu dedo anelar da mão esquerda.",
+        "incident_type": "Others Injuries", 
+        "root_cause": "Manual handling"
+    },
+    {
+        "description": "O operador de empilhadeira se dirigiu ao restaurante do cliente para realizar a refeição. Durante a alimentação, o colaborador sentiu um desconforto em sua boca. Nesse momento, ao expelir o alimento ingerido, identificou que havia um corpo estranho (vestígio de vidro) no alimento que, ao mastigar, ocasionou a ruptura de um dente.",
+        "incident_type": "MTC", 
+        "root_cause": "N/A"
+    },
+    {
+        "description": "Os Auxiliares Logísticos e o Coordenador de Operações realizavam o processo de paletização de carga. O Auxiliar Logístico “A” posicionou sua mão direita abaixo do produto (impressora – 40kg) para sustentar o produto. Quando, o Auxiliar “B” empurrou o produto sobre o palete provocando o pensamento da mão direita do Auxiliar “A”. Neste momento, ele tentou puxar rapidamente a sua mão causando uma contusão nos dedos.",
+        "incident_type": "Others Injuries", 
+        "root_cause": "Manual handling"
+    },
+    {
+        "description": "O Operador de Transpaleteira Elétrica transferia palete de produtos com uma transpaleteira elétrica de grafo longo e simultaneamente o Auxiliar Logístico realizava conferencia do palete. Quando, o operador realizou a curva para acessar o corredor em frente a doca, ele não realizou a curva corretamente. Neste momento, o palete sobre o grafo da transpaleteira bateu contra o palete armazenado no stage projetando contra o pé direito do colaborador causando uma contusão",
+        "incident_type": "MTC", 
+        "root_cause": "MHE"
+    },
+    {
+        "description": "Os Auxiliares Logísticos carregavam manualmente os produtos (refrigeradores) e colocavam sobreposto dos produtos no interior de uma carreta. Quando, o Auxiliar “B” ergueu o produto antes do Auxiliar “A”, neste momento, o Auxiliar “A” não conseguiu sustentar o produto desequilibrando-o e projetou contra a sua cabeça causando uma escoriação.",
+        "incident_type": "Others Injuries", 
+        "root_cause": "Manual handling"
+    },
+    {
+        "description": "O Auxiliar Logístico 'A' realizava atividade de limpeza de PDs com transpaleteira elétrica e simultaneamente um outro Auxiliar “B” com uma carrinho hidráulico realizava atividade de picking. Quando, o auxiliar “A” tentou desvia do carrinho hidráulico no percurso, ele não avaliou o espaço necessário para passagem da transpaleteira. Neste momento, ele colidiu com a transpaleteira contra o protetor do rack (mike Tyson) provocando a queda do colaborador da plataforma que bateu com a sua perna direita no palete causando uma contusão.",
+        "incident_type": "MTC", 
+        "root_cause": "MHE"
+    },
+    {
+        "description": "O Auxiliar Logístico “A” deslocava pela rua de separação utilizando uma transpaleteira elétrica e simultaneamente os Auxiliares Logisticos “B” e “C” separava produtos em paletes com carrinhos hidráulicos obstruindo a passagem de equipamentos. Neste momento, o auxiliar “A” tentou passar entre os paletes colidindo com contra um dos palete projetando contra o pé esquerdo do auxiliar “B” causando uma luxação.",
+        "incident_type": "Others Injuries", 
+        "root_cause": "MHE"
+    },
+    {
+        "description": "O Auxiliar Logístico movimentava uma transpaleteira elétrica desembarcada para estacionar fora da área de recebimento de carga. Quando, ele manobrou o equipamento de costas com as duas mãos no manche. Neste momento, ele perdeu o controle do equipamento que veio em sua direção prensando o seu pé contra a coluna do prédio causando uma fratura no pé direito.",
+        "incident_type": "Others Injuries", 
+        "root_cause": "MHE"
+    },
+    {
+        "description": "O Auxiliar Logístico realizava o descarregamento manual dos produtos. Quando, identificou que os produtos estavam fora da faixa demarcada no veículo, impossibilitando o acionamento da niveladora de doca. O Auxiliar entrou no veículo e iniciou a descarga dos produtos que estavam na parte superior. Neste momento, ele se desequilibrou e caiu no espaço entre a carreta e a doca, causando escoriações na perna esquerda. ",
+        "incident_type": "Others Injuries", 
+        "root_cause": "Manual handling"
+    }
+]

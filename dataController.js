@@ -1,7 +1,15 @@
 var natural = require('natural');
+
+//INCIDENTS
 var classifier = new natural.BayesClassifier();
 var incidentsClassifier = new natural.BayesClassifier();
 var incidentsNFR_DM = new natural.BayesClassifier();
+
+//INJURIES
+var incidentsLTA = new natural.BayesClassifier();
+var incidentsMTC = new natural.BayesClassifier();
+var incidentsRWC = new natural.BayesClassifier();
+var incidentsFAC = new natural.BayesClassifier();
 
 module.exports = {
 
@@ -45,7 +53,7 @@ module.exports = {
                 // Apply/Predict
                 Classify_subincident = incidentsClassifier.classify(req.params.description);
 
-                    if(Classify_subincident === "DHL"){
+                    if(Classify_subincident == "DHL"){
 
                         //Using External dataset
                         const data_nfr_dm = require('./nearmiss_dm.json');
@@ -63,7 +71,7 @@ module.exports = {
 
                         res.send(Classify_nfr_dm)
 
-                    }if(Classify_subincident === "Terceiro"){
+                    }if(Classify_subincident == "Terceiro"){
 
                         res.send("Terceiro")
 
@@ -71,10 +79,77 @@ module.exports = {
 
             }if(Classify == "Personal Injury"){
 
-                res.send("Injury")
+
+
+                     //Using External dataset
+                    const data_rwc = require('./rwc.json');
+
+                    //TOTAL DE INCIDENTES
+                    data_rwc.forEach(data_rwc=>{
+                        incidentsRWC.addDocument(data_rwc.description,data_rwc.incident_type);
+                    });
+
+                    // Train
+                    incidentsRWC.train();
+
+                    // Apply/Predict
+                    Classify_RWC = incidentsRWC.classify(req.params.description);
+
+                    if(Classify_RWC == "RWC"){
+
+                        res.send(Classify_RWC)
+
+                    }if(Classify_RWC == "Others Injuries"){
+
+                        //Using External dataset
+                        const data_mtc = require('./mtc.json');
+
+                        //TOTAL DE INCIDENTES
+                        data_mtc.forEach(data_mtc=>{
+                            incidentsMTC.addDocument(data_mtc.description,data_mtc.incident_type);
+                        });
+
+                        // Train
+                        incidentsMTC.train();
+
+                        // Apply/Predict
+                        Classify_MTC = incidentsMTC.classify(req.params.description);
+
+                        if(Classify_MTC == "MTC"){
+
+                            res.send(Classify_MTC)
+
+                        }if(Classify_MTC == "Others Injuries"){
+
+                            //Using External dataset
+                            const data_fac = require('./fac.json');
+
+                            //TOTAL DE INCIDENTES
+                            data_fac.forEach(data_fac=>{
+                                incidentsFAC.addDocument(data_fac.description,data_fac.incident_type);
+                            });
+
+                            // Train
+                            incidentsFAC.train();
+
+                            // Apply/Predict
+                            Classify_FAC = incidentsFAC.classify(req.params.description);
+
+                            if(Classify_FAC == "FAC"){
+
+                                res.send(Classify_FAC)
+
+                            }if(Classify_FAC == "Others Injuries"){
+
+                                res.send("Erro ao classificar incidente. Se o Problema persistir. Contate: fabricio.rocha@dhl.com")
+
+                            }
+
+                        }
+
+                    }
+
+                }
 
             }
-
-    }
-
-}
+        }
