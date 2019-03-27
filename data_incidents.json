@@ -1,0 +1,928 @@
+[
+    {
+        "description": "O Operador de Empilhadeira realizava trabalhos de INVENTÁRIO no armazém sob acompanhamento de colaborador Unilever. Ao movimentar um palete, o colaborador UL orientou o operador à realizar a movimentação com paletes duplados com a empilhadeira (grade baixa), e durante a movimentação o palete superior caiu sobre o habitáculo do operador.",
+        "incident_type": "DHL", 
+        "root_cause": "MHE"
+    },
+    {
+        "description": "O Motorista da transportadora contratada pelo Cliente, após liberação pela portaria para o processo de descarregamento, direcionou-se ao local e sem a devida liberação para abertura de portas, lacre e posicionamento na doca interna, prosseguiu com a manobra em marcha ré, não atentando-se ao fato que o processo de abertura da porta, não havia sido concluído e a mesma encontrava-se levemente fechada, o que levou a colisão do baú contra a porta, deixando-a danificada e oferecendo risco de queda sobre pessoas.",
+        "incident_type": "Terceiro", 
+        "root_cause": "Caminhão"
+    },
+    {
+        "description": "O operador de empilhadeira realizava o carregamento do caminhão com bobinas de cabos elétricos no pátio externo do armazém, quando ao posicionar uma bobina sobre a outra, a bobina que estava sob o garfo do equipamento escorregou caindo do outro lado do caminhão.",
+        "incident_type": "DHL", 
+        "root_cause": "MHE"
+    },
+    {
+        "description": "O motorista da transportadora Nova Minas após encostar o caminhão na doca 085, foi colocar o calço no pneu. No momento que se abaixou para pegar o calço, bateu a cabeça na porta do baú do caminhão causando um pequeno corte.",
+        "incident_type": "Terceiro", 
+        "root_cause": "Caminhão"
+    },
+    {
+        "description": "O Operador de Empilhadeira armazenava fumo com uma empilhadeira retrátil. Ao passar pela porta de acesso à oficina o sensor de presença e as linhas indutivas não funcionaram. Neste momento, a porta desceu sobre o equipamento colidindo contra a torre causando uma avaria na porta. ",
+        "incident_type": "DHL", 
+        "root_cause": "N/A"
+    },
+    {
+        "description": "O Auxiliar Logístico movimentava insumos dentro de uma gaiola metálica utilizando carrinho hidráulico. Ao passar pelo corredor em direção a área de descarte, ele não observou o dreno da tubulação de incêndio. Neste momento, ele passou com o carrinho hidráulico próximo ao dreno colidindo a gaiola contra a tubulação causando a sua ruptura e o escoamento de água de incêndio.",
+        "incident_type": "DHL", 
+        "root_cause": "Manual handling"
+    },
+    {
+        "description": "O Operador de Empilhadeira armazenava palete no rack double deep com uma empilhadeira pantográfica. Ao tentar posicionar o palete na 2ºposição do rack double deep, ele não observou que o palete ao lado estava desalinhado. Neste momento, o palete bateu contra o outro palete ocasionando a queda de aproximadamente 8 caixas de produtos causando avarias",
+        "incident_type": "DHL", 
+        "root_cause": "MHE"
+    },
+    {
+        "description": "O Auxiliar Administrativo e o Auxiliar Logístico I deslocaram se até doca 7 para chamar o motorista que estava estacionado no pátio. O Auxiliar Logístico realizou abertura da porta e ao finalizar a orientação para o motorista, o Auxiliar Administrativo acionou o fechamento automático da porta doca. Quando eles retornaram em direção ao stage sem aguardar o fechamento total da porta, neste momento, a porta colidiu contra as cadeira que estavam posicionada em frente da doca causando avarias.",
+        "incident_type": "DHL", 
+        "root_cause": "N/A"
+    },
+    {
+        "description": "O Operador de Empilhadeira armazenava palete no rack double deep com uma empilhadeira pantográfica. Ao tentar posicionar o palete na 2ºposição do rack double deep, ele não observou que o palete ao lado estava desalinhado. Neste momento, o palete movimentado bateu contra o palete desalinhado dentro da estrutura ocasionando a queda de algumas caixas de produtos causando avarias.",
+        "incident_type": "DHL", 
+        "root_cause": ""
+    },
+    {
+        "description": "O Operador de Empilhadeira armazenava palete na posição de alimentação da maquina da linha de produção com uma empilhadeira frontal. Ao tentar retirar 5 paletes da pilha, os paletes se desequilibraram caindo sobre o painel de instrumento da linha e sobre a esteira da outra linha.",
+        "incident_type": "DHL", 
+        "root_cause": "MHE"
+    },
+    {
+        "description": "O Operador de Empilhadeira movimentava palete com uma empilhadeira retrátil. Ao abaixar o palete até o nível da patola para iniciar a movimentação, ele não realizou o giro do equipamento e depois o avanço da torre. Neste momento, o lado esquerdo do palete bateu na patola provocando a queda do palete no piso sem causar avaria no produto. ",
+        "incident_type": "DHL", 
+        "root_cause": "MHE"
+    },
+    {
+        "description": "Ao tentar ajustar o material (cinta poste) no palete já formatado, a Auxiliar de Armazém percebeu que algumas peças poderiam cair durante a movimentação com MHE e decidiu ajustar a posição destas no palete. Quando, ela agarrou o amarrado de cintas com as duas mãos e tentou separá-las. Neste momento, ela não suportou a tensão da cinta de arqueamento soltando-as e fazendo com que os materiais retornassem a posição inicial, prensando levemente seu dedo anelar esquerdo.",
+        "incident_type": "DHL", 
+        "root_cause": "Manual handling"
+    },
+    {
+        "description": "O Auxiliar Logístico executava reposicionamento de materiais com o auxilio de uma paleteira elétrica com garfo curto, transportava dois paletes de embalagens (caixas de papelão) sobrepostos e posicionados pela face simples (não intertravada). Ao realizar curva a esquerda, em velocidade regular, a carga desestabilizou-se acarretando o seu tombamento e consequentemente a colisão contra o portão de acesso a área de qualidade.",
+        "incident_type": "DHL", 
+        "root_cause": "MHE"
+    },
+    {
+        "description": "O Auxiliar Logístico I movimentava produtos com uma transpaleteira elétrica próximo a linha de produção. Ao se aproximar do afunilamento da rua, em que é necessário trafegar somente um equipamento por vez. Quando, ele decidiu não aguardar a passagem completa do outro equipamento no sentido contrario e ao passar entre o guarda corpo e o outro equipamento, ele colidindo a transpaleteira contra o guarda corpo causando avarias",
+        "incident_type": "DHL", 
+        "root_cause": "MHE"
+    },
+    {
+        "description": "O Operador de Empilhadeira abastecia o reborcador com uma empilhadeira elétrica frontal. Quando, ele observou um principio de incêndio na bateria (localizada abaixo do banco). Neste momento, ele combateu o principio de incêndio com o extintor do equipamento.",
+        "incident_type": "DHL", 
+        "root_cause": "MHE"
+    },
+    {
+        "description": "O Operador de Empilhadeira A armazenava palete no rack com uma empilhadeira retrátil. Ao finalizar a atividade, ele se deslocou com a empilhadeira consultando o RF simultaneamente por 4 metros de distancia, não observando uma outra empilhadeira parada e não ouvindo a buzina sendo acionada pelo Auxiliar Logístico B. Neste momento, ele colidiu a empilhadeira contra a outra empilhadeira sem causar avaria.",
+        "incident_type": "DHL", 
+        "root_cause": "MHE"
+    },
+    {
+        "description": "O aparelho de ar condicionado da sala de medicamentos da operação de Cross Docking apresentou vazamento no dreno acumulando resíduo de água sobre as placas de isopor do teto provocando a danificação e sua queda de um pedaço da placa de isopor sobre os produtos armazenados.Nota: Não haviam colaboradores na sala.",
+        "incident_type": "DHL", 
+        "root_cause": "N/A"
+    },
+    {
+        "description": "O Auxiliar Logístico II realizava a atividade de retrabalho nos stages com uma transpaleteira Elétrica. Ao acessar a transpaleteira pela lateral (descumprindo as orientações), ele tropeçou na proteção laterai batendo a sua pernadireita contra o protetor de pés instalado na plataforma do equipamento no dia anterior.Nota: O colaborador relatou que já havia tropeçado na proteção algumas vezes no mesmo dia e que sabia das orientações sobre o acesso correto na transpaleteira, conforme briefing realizado após a instalação.",
+        "incident_type": "DHL", 
+        "root_cause": "MHE"
+    },
+    {
+        "description": "A Auxiliar Logístico estava em atividade de sinergia no stage movimentando palete manualmente com luva de segurança. Ao chegar na posição desejada, ela soltou o palete no chão não observando a posição do seu corpo colidindo o palete contra o seu pé esquerdo sem causar danos.",
+        "incident_type": "DHL", 
+        "root_cause": "Manual handling"
+    },
+    {
+        "description": "O Tecnico de Empilhadeira da empresa Crown movimentava uma transpaleteira elétrica em direção a oficina. Ao passar pelo portão de acesso da doca que estava semi-aberto, ele abaixou a sua cabeça e não observou a altura da grade de proteção do equipamento. Neste momento, a grade colidiu contra o portão causando avarias.",
+        "incident_type": "Terceiro", 
+        "root_cause": "MHE"
+    },
+    {
+        "description": "O Auxiliar de Armazém reposicionava paletes de plástico com uma transpaleteira elétrica no Armazém do cliente. Ao posicionar a pilha de paletes na posição, ele empurrou as 6 fileiras de paletes projetando a ultima pilha de palete para fora da doca. Neste momento, os paletes foram projetados em direção ao estacionamento de veículos colidindo contra 2 veículos de passeio estacionando próximo a doca na área externa.",
+        "incident_type": "DHL", 
+        "root_cause": "MHE"
+    },
+    {
+        "description": "O Auxiliar Logístico A movimentava palete pela área da Buffer com uma transpaleteira elétrica no sentido da linha de produção. Ao se aproximar do cruzamento, ele não observou o Auxiliar Logístico B no sentido perpendicular. Neste momento, o Auxiliar A tentou acessar a curva para esquerda invadindo a faixa contrária enquanto o  Auxiliar B tentou acessar a curva para direita colidindo a transpaleteira contra a outra transpaleteira sem causar avarias.",
+        "incident_type": "DHL", 
+        "root_cause": "MHE"
+    },
+    {
+        "description": "O Operador de Empilhadeira movimentava paletes com uma empilhadeira pantográfica. Durante o percurso, ele apresentou sonolência perdendo o controle da maquina. Neste momento, ao observar que o equipamento estava em direção a estrutura do rack, ele não teve tempo de reação para frear o equipamento provocando a colisão da empilhadeira contra a estrutura do rack causando avarias.",
+        "incident_type": "DHL", 
+        "root_cause": "MHE"
+    },
+    {
+        "description": "O Auxiliar Logístico armazenava palete no rack com uma transpaleteira desembarcada. Ao observar que a altura do palete com produto era maior que a posição definida, ele tentou acionar o comando para mover o equipamento para trás. Neste momento, ele acionou o comando movendo o equipamento para frente colidindo as caixas contra a estrutura do rack causando o tombamento das caixas em sua direção sem causar lesão.",
+        "incident_type": "DHL", 
+        "root_cause": "Manual handling"
+    },
+    {
+        "description": "O Motorista do caminhão da empresa transportadora Alphaville se posicionou na doca de recebimento. Quando, ele solicitou para o Assistente Logístico que o caminhão fosse carregado com o veículo ligado, descumprindo a regra de doca, pois apresentava problemas para ligar. Neste momento, ele identificou um cheiro forte de queimado e observou que era um principio de incêndio na bateria do veiculo. Sendo combatido pelo time de brigada de incêndio sem causar dano.",
+        "incident_type": "Terceiro", 
+        "root_cause": "MHE"
+    },
+    {
+        "description": "O Auxiliar Logístico se deslocar pelo corredor interno conduzindo uma transpaleteira elétrica. Ao percorrer por aproximadamente 30 metros conduzindo o equipamento com a mão direita e simultaneamente verificando os dados da ordem da tarefa na sua mão esquerda. Quando, ele não observou que o equipamento estava indo em direção ao guarda corpo, neste momento, ele colidiu a transpaleteira contra o guarda corpo causando avaria.",
+        "incident_type": "DHL", 
+        "root_cause": "MHE"
+    },
+    {
+        "description": "O Auxiliar de Armazém realizava abastecimento da linha de produção com uma transpaleteira elétrica. Ao observar que a porta estava aberta, ele tentou passar pela porta de acesso cruzando em diagonal e não sendo identificado pelo sensor de abertura da porta. Neste momento, a porta fechou atingindo o ombro do colaborador sem causar lesão.",
+        "incident_type": "DHL", 
+        "root_cause": "MHE"
+    },
+    {
+        "description": "Os colaboradores realizavam a desmontagem das estruturas porta palete. Ao passar uma longarina do segundo nível de duas pessoas para o nível do piso para outras duas pessoas. O colaborador “B” que estava na parte de cima da estrutura, passou pela extremidades da longarina para o colaborador “A” com apenas uma mão deixou a longarina escapar (girando) impossibilitando que o colaborador segurasse com firmeza, fazendo com que o material atingisse seu queixo causando um corte superficial.",
+        "incident_type": "Terceiro", 
+        "root_cause": "Manual handling"
+    },
+    {
+        "description": "O Eletricista de Manutenção solicitou que o Operador de Empilhadeira coloca-se 2 palete (sobrepostos) no 6º nível do rack para que ele utiliza-se como apoio para realizar manutenção na tubulação da evaporadora dentro da câmara fria. Ao finalizar a atividade, o Eletricista tentou manobrar a plataforma elevatória. Neste momento, o guarda corpo da plataforma colidiu contra os paletes armazenado no 6ºnivel provocando a sua queda dentro da estrutura do rack atingindo o palete de produtos armazenado no 4ºnível causando avarias.",
+        "incident_type": "DHL", 
+        "root_cause": "Manual handling"
+    },
+    {
+        "description": "O Operador de Empilhadeira retirava palete de produto (bag de açúcar) no sistema de rack (tipo drive-in) para atividade de retrabalho de etiquetas. Ao posicionar o garfo da empilhadeira para retirar o palete que estava armazenado no 2º nível, ele não observou que os garfos prendeu na alça do bag posicionado no 1º nível. Neste momento, ao puxar o palete para sair da estrutura do rack os garfos puxaram o bag provocando a sua ruptura causando avaria do produto.",
+        "incident_type": "DHL", 
+        "root_cause": "MHE"
+    },
+    {
+        "description": "Durante sua jornada de trabalho, a assistente de segurança patrimonial ouviu um ruído muito forte de madeira quebrando próximo ao setor de blocado. Quando, ele observou que uma caixa de madeira com produtos havia caído do blocado. Como não havia operação neste dia, ele observou pela imagem de CFTV que houve o tombamento involuntário.",
+        "incident_type": "DHL", 
+        "root_cause": "N/A"
+    },
+    {
+        "description": "O Operador de Empilhadeira armazenava palete na estrutura do Rack com uma empilhadeira retrátil. Ao finalizar o armazenamento no 6º nível, ele se deslocou em direção a área de inbound. Quando, ele escutou um forte barulho de queda de produtos. Neste momento, ele observou que a longarina do 6ºnível em que havia armazenado o palete havia caído e encontrava-se na posição inferior que provocou a queda dos paletes no 5º nível sem causar avarias.",
+        "incident_type": "DHL", 
+        "root_cause": "N/A"
+    },
+    {
+        "description": "Os Auxiliares Logísticos montavam pilhas de caixas de produtos no palete na doca. Quando, o Auxiliar Logístico “A” movimentou o palete com um carrinho hidráulico, ele realizou uma curva para posicionar o palete com 6 camadas de produtos empilhados em direção ao stage. Neste momento, as 2 caixas superiores foram projetadas contra a parede com vidro da sala administrativa causando avaria no vidro. Nota: Não havia nenhum colaborador dentro da sala administrativa no momento do incidente.",
+        "incident_type": "DHL", 
+        "root_cause": "Manual handling"
+    },
+    {
+        "description": "O Auxiliar Logístico movimentava uma gaiola vazia com uma transpaleteira elétrica para posicionar na Linha de Produção. Ao tentar realizar a curva de acesso a linha de produção, ele não observou que havia resíduo de produto (Omo Liquido) no piso passando por cima do resíduo. Neste momento, ele perdeu o controle do equipamento projetando a transpaleteira contra o guarda corpo causando avaria.",
+        "incident_type": "DHL", 
+        "root_cause": "MHE"
+    },
+    {
+        "description": "O Auxiliar Logístico parou a transpaleteira elétrica ao lado da faixa de pedestre para descartar as cantoneiras de papelão no contentor. Simultaneamente, o Coordenador de Operações passou pela faixa de pedestre ao lado do equipamento. Neste momento, o Auxiliar manobrou o equipamento no sentido incorreto atingindo o braço do Coordenador sem causa lesão",
+        "incident_type": "DHL", 
+        "root_cause": "MHE"
+    },
+    {
+        "description": "O Operador de Empilhadeira armazenava palete com uma empilhadeira retrátil. Enquanto ele transitava na marginal principal, ele dormiu momentaneamente colidindo o equipamento contra a viga de sustentação do armazém sem causar avarias.",
+        "incident_type": "DHL", 
+        "root_cause": "MHE"
+    },
+    {
+        "description": "O Auxiliar Logístico separava produtos (vidros) de dentro da embalagem de madeira no blocado. Ao tentar romper a cinta plástica de sustentação da embalagem, ele não observou que os vidros havia se movimentando internamente ficando apoiado na parte frontal da embalagem. Neste momento, ao cortar a cinta plástica os grampos de sustentação não suportaram o peso dos vidros provocando o tombamento da parte frontal da embalagem sem causar avarias.",
+        "incident_type": "DHL", 
+        "root_cause": "Manual handling"
+    },
+    {
+        "description": "O Operador de Empilhadeira separava paletes de produtos com uma empilhadeira pantográfica. Ao girar e elevar os garfos da empilhadeira simultaneamente, ele não observou a distancia correta. Neste momento, o garfo da empilhadeira colidiu na parte inferior da longarina causando avarias.",
+        "incident_type": "DHL", 
+        "root_cause": "MHE"
+    },
+    {
+        "description": "A Operadora de Empilhadeira posicionava palete na estrutura com uma empilhadeira retrátil e acessou a rua segregada para conversa com uma outra Operadora de Empilhadeira que estava no final do corredor, simultaneamente, o Assistente de Inventário realizava contagem na rua segregada. Quando, o Operador tentou passar entre a transpaleteira elétrica e o portão de acesso, ele não observou o espaço necessário para realizar a passagem, neste momento, a empilhadeira colidiu contra o portão causando avaria.",
+        "incident_type": "DHL", 
+        "root_cause": "MHE"
+    },
+    {
+        "description": "O Operador de Empilhadeira armazenava palete ultimo nível da estrutura dor rack com uma empilhadeira trilateral. Ao armazenar o palete no ultimo nível, ele bateu contra a caixa do palete ao lado. Neste momento, 3 caixas caíram em direção ao piso sem causar avaria ao produto.Nota: Não havia nenhum colaborador realizando picking na rua durante a movimentação.",
+        "incident_type": "DHL", 
+        "root_cause": "MHE"
+    },
+    {
+        "description": "O Operador de Empilhadeira armazenava palete na estrutura com uma empilhadeira retrátil. Ao posicionar o palete na posição, ele não observou o limitado da empilhadeira não funcionou. Neste momento, ele elevou o grafo acima do limite permitido colidindo a torre contra a luminária provocando a sua queda no piso causando avarias.",
+        "incident_type": "DHL", 
+        "root_cause": "MHE"
+    },
+    {
+        "description": "O Auxiliar Logístico estava em sinergia e inspecionava produtos dentro da câmara fria realizando a abertura e fechamento de caixas. Ao sair da câmara fria, ele observou que a porta estava aberta. Quando, ele decidiu passar pela porta e não sendo identificado pelo sensor (lado externo). Neste momento, a porta desceu sobre seu corpo batendo superficialmente no seu rosto sem causar lesão.",
+        "incident_type": "DHL", 
+        "root_cause": "Manual handling"
+    },
+    {
+        "description": "O Operador de Empilhadeira armazenava um container com uma empilhadeira elétrica. Ao identificar que uma das ripas de madeira do palete estava solta, ele removeu para seguir com a armazenagem. Neste momento, ele ouviu alguns estalos de madeira e ao abaixar os grafos da empilhadeira uma das ripas de madeira se quebrou provocando a queda do contanier sobre o palete armazenado na posição a sua frente sem causar avaria. ",
+        "incident_type": "DHL", 
+        "root_cause": "MHE"
+    },
+    {
+        "description": "O Auxiliar Logístico transitava em direção a casa de bateria para realizar a troca de bateria da transpaleteira eletrica. Quando, ela perdeu o controle do equipamento colidindo contra a coluna do rack. Neste momento, ela foi projetada para fora do equipamento batendo a sua cabeça no piso sem causar lesão.",
+        "incident_type": "DHL", 
+        "root_cause": "MHE"
+    },
+    {
+        "description": "O Auxiliar Logístico realizava manualmente o alinhamento de duas caixas plástica tipo móbil. Ao apoiar a mão esquerda para empurrar e depois puxar a caixa superior para encaixar as caixas, ele não observou o posicionamento correto da sua mão esquerda. Neste momento, ao puxar a caixa a sua mão esquerda prendeu entre a caixa superior e inferior sem causar dano.",
+        "incident_type": "DHL", 
+        "root_cause": "Manual handling"
+    },
+    {
+        "description": "O Coordenador Técnico da prestadora de serviço Starseg, realizava manutenção preventiva das câmeras de segurança do site utilizando a Plataforma Elevatória. Ao realizar manobra para acessar o prédio 2, ele precisou desviar de um palete fora do layout e da escada armazenada ao lado da saída do laboratório. Neste momento, ele não observou a distancia correta para manobrar e colidiu a roda traseira contra a estrutura da parede causando avaria.",
+        "incident_type": "Terceiro", 
+        "root_cause": "MHE"
+    },
+    {
+        "description": "Os Operadores de Empilhadeira em sinergia trocava a bateria da empilhadeira retratil sem realizarem o treinamento de troca de bateria. Quando, ao transferir a bateria para o carrinho, o Operador “A” não travou o carrinho na empilhadeira. Neste momento, o carrinho foi projetado para trás provocando a queda da bateria no chão.",
+        "incident_type": "DHL", 
+        "root_cause": "MHE"
+    },
+    {
+        "description": "O Motorista do Prestador de Serviço UAD (prestador do cliente) na operação Nokia Hub descarregava palete com produtos com um carrinho hidráulico. Ao realizar a manobra na diagonal com o carrinho hidráulico em direção a doca, quando o palete tombou sobre a lateral do caminhão. Neste momento, ao retirar os produtos manualmente o palete tombou para fora do caminhão sem causar avarias.",
+        "incident_type": "Terceiro", 
+        "root_cause": "Manual handling"
+    },
+    {
+        "description": "O Motorista estava transitando de São Paulo sentido São josé do Rio Preto quando nas proximidades de Santa Aldeia ele transitava na faixa da esquerda quando um veiculo carregado de tijolos transitava em sua frente com velocidade baixa, ao mudar para a faixa esquerda para afzer a ultrapassagem havia um 3° veículo ( truck ) que transitava pela faixa da esquerda vindo a VAN do motorista Clodoaldo se chocar com a lateral deste Truck.O Motorista não sofreu nenhum ferimento.",
+        "incident_type": "DHL", 
+        "root_cause": "MHE"
+    },
+    {
+        "description": "A Auxiliar Logística I realizava atividade sistêmica na bancada na área de conferência. Quando, ela movimentou se lateralmente sentada numa cadeira até a impressora para pegar um papel impresso. Neste momento, ela apoiou a sua mão esquerda na bancada encostando o 3º e 4º dedo na tomada que estava sem proteção recebendo um choque elétrico sem causar danos.Nota: A colaboradora comunicou imediatamente a gestão e registrou na pirâmide de segurança o incidente; O time de HSE somente foi comunicado no dia 27/03.",
+        "incident_type": "DHL", 
+        "root_cause": "N/A"
+    },
+    {
+        "description": "O Auxiliar Logístico armazenava palete na estrutura de Rack com uma transpaleteira elétrica desembarcada. Quando, ele retirou o palete de produto (882kg) do 4° nível excedendo o limite de movimentação de palete em altura do equipamento. Neste momento, a torre foi projetada lateralmente inclinando o equipamento e apoiando o palete com produto na coluna ao lado da estrutura.",
+        "incident_type": "DHL", 
+        "root_cause": "MHE"
+    },
+    {
+        "description": "O Operador de Empilhadeira armazenava produtos no rack com a empilhadeira retrátil. Ao armazenar o palete (1,75 m de altura) no 5° nível, ele não observou a distancia segura entre o palete e a luminária. Neste momento, o palete colidiu contra a luminária do teto provocando a ruptura de dois ganchos que prende a luminária no teto sem causar a sua queda.",
+        "incident_type": "DHL", 
+        "root_cause": "MHE"
+    },
+    {
+        "description": "A Operadora de Empilhadeira movimentação paletes com uma empilhadeira retrátil. Ao tentar retirar o palete no 2° nível em um espaço restrito (2,30m entre rack e caixa metálica da mangueira do hidrante ), ela movimentou a empilhadeira olhando somente na direção do palete. Neste momento, ela colidiu a empilhadeira contra a caixa metálica da mangueira do hidrante causando avaria.Nota: A empilhadeira precisa de um corredor de 2,70m para realizar o giro do equipamento de forma segura.",
+        "incident_type": "DHL", 
+        "root_cause": "MHE"
+    },
+    {
+        "description": "O Motorista transitada próximo a cidade de Brasília pela faixa da direita com o veículo, quando colidiu com a traseira de uma carreta que estava parada no acostamento ocupando também parte da faixa da direita sem sinalização e iluminação pois o veículo estava desligado em manutenção causando a colisão.",
+        "incident_type": "Terceiro", 
+        "root_cause": "Caminhão"
+    },
+    {
+        "description": "O Operador de Empilhadeira armazenava palete com uma transpaleteira elétrica desembarcada. Ao movimentar o equipamento de frente, ele tentou desviar de um palete armazenado no stage. Neste momento, ele não observou a distancia segura da esteira metálica de movimentação e ao mover o manche para direita a sua mão direita foi pressionado entre o marche e a esteira sem causa lesão.",
+        "incident_type": "DHL", 
+        "root_cause": "MHE"
+    },
+    {
+        "description": "O Auxiliar Logistico movimentava palete com uma transpaleteira elétrica no corredor principal. Ao reposicionar o palete antes de colocar na strechadeira, ele não observou a distancia segura para realizar a manobra. Neste momento, ele colidiu contra o guarda corpo de acesso a sala operacional causando avaria.",
+        "incident_type": "DHL", 
+        "root_cause": "MHE"
+    },
+    {
+        "description": "O Operador de Empilhadeira conduzia a empilhadeira em direção ao banheiro. Quando cochilou no equipamento e colidiu contra a parede, causando danos na estrutura e derrubando algumas placas do forro.",
+        "incident_type": "DHL", 
+        "root_cause": "MHE"
+    },
+    {
+        "description": "O Operador de Empilhadeira armazenava produtos dentro do container com uma empilhadeira frontal. Ao tentar armazenar dentro do container modelo Dry (com altura menor 2,29m), ele não observou a altura da empilhadeira mais o acessório blue safety light era maior (2,36m) que altura do container. Neste momento, ao entrar no container colidiu o acessório contra a extremidade do container causando a avaria no blue safety light.Nota: Antigamente o armazenamento dentro do container era feito com empilhadeira a combustão com altura menor (2,13m).",
+        "incident_type": "DHL", 
+        "root_cause": "MHE"
+    },
+    {
+        "description": "Foi identificado um principio de incêndio ocorrido nas instalações vizinhas (MABE), ao lado do site Mopar, que se propagava na vegetação interna atingindo cerca de 3000m². Próximo ao foco de incêndio possui o armazenamento de paletes do cliente (2000 paletes). Para evitar a propagação, a brigada de incêndio foi acionada para o controle e rescaldo do local evitando a propagação em direção ao site.",
+        "incident_type": "Terceiro", 
+        "root_cause": "N/A"
+    },
+    {
+        "description": "A Copeira realizava a limpeza da bancada térmica, utilizada para servir o almoço no refeitório. Quando, ela acessou a parte interna da bancada para acionar a alavanca para descarte da água do aquecimento dos alimentos sem desligar a parte elétrica do equipamento. Neste momento, ela encostou num fio energizado causando um choque elétrico provocando o desmaio da colaboradora.Nota: a colaboradora foi atendida pelo brigadista e encaminhada par ao hospital.",
+        "incident_type": "Terceiro", 
+        "root_cause": "N/A"
+    },
+    {
+        "description": "O Operador de Empilhadeira movimentava produtos (refrigeradores) com uma empilhadeira GLP com dispositivo clamp. Ao tentar retirar 2 blocos com 4 refrigeradores cada, ele não observou que havia mais 2 blocos posicionado no nível de cima. Neste momento, ao sair em marcha ré os refrigeradores se soltaram do bloco provocando a sua queda no piso e sobre a empilhadeira causando avarias.",
+        "incident_type": "DHL", 
+        "root_cause": "MHE"
+    },
+    {
+        "description": "O Operador de Empilhadeira armazenava paletes com uma empilhadeira retrátil na estrutura do Rack em uma área disponível para contingencia. Ao tentar acessar a rua paralela, ele confundiu o posicionamento da 1° longarina (2,40 de altura) da estrutura com o túnel de acesso. Neste momento, a torre da empilhadeira colidiu contra a longarina causando avaria.",
+        "incident_type": "DHL", 
+        "root_cause": "MHE"
+    },
+    {
+        "description": "O Auxiliar Logístico deslocava para sala de bateria com uma transpaleteira elétrica para realizar a trocar da bateria. Simultaneamente, o Operador de Maquina da empresa Sodexo utilizando um equipamento (varredeira tripulada) limpava o local sem ter sinalizado. Ao passar com a transpaleteira pelo local que estava úmido, o equipamento perdeu a aderência com o piso. Neste momento, o equipamento escorregou em direção ao proteção causando avaria.",
+        "incident_type": "DHL", 
+        "root_cause": "MHE"
+    },
+    {
+        "description": "O Operador de Empilhadeira em sinergia movimentava um palete não possui stretch no 7° nível da estrutura do rack com a uma empilhadeira retrátil. Ao tentar realizar o giro e abaixar os garfos simultaneamente, ele bateu com a base do palete na estrutura. Neste momento, os produtos se movimentaram sobre o palete provocando a sua queda no piso causando avarias nos produtos.",
+        "incident_type": "DHL", 
+        "root_cause": "MHE"
+    },
+    {
+        "description": "O Operador de Equipamentos Moveis movimentava as carretas parqueadas das docas. Ao ser solicitado para retirar uma carreta da doca, ele engatou o caminhão na carreta e manobrou o caminhão em direção ao pátio. Neste momento, ao virar para esquerda a carreta desatrelou do caminhão (cavalo mecânico) provocando a queda no piso causando avaria no equipamento (pé de elefante) da carreta. ",
+        "incident_type": "DHL", 
+        "root_cause": "Caminhão"
+    },
+    {
+        "description": "O Motorista terceiro (agregado) aguardava a liberação na enclusa de acesso ao site. Quando, ele foi informando pelo vigilante para aguarda a abertura total do portão de acesso ao site. Neste momento, a abertura do portão foi acionada e o motorista não aguardou a sua abertura total avançado sobre a garra de tigre causando a danificação do pneu direito.",
+        "incident_type": "Terceiro", 
+        "root_cause": "Caminhão"
+    },
+    {
+        "description": "O Operador de Empilhadeira armazenava palete de produtos no 5º nível da estrutura do Rack dentro da área climatizada com uma empilhadeira retrátil. Ao observar o equipamento de refrigeração em frente a posição do 5º nível a ser armazenado, ele precisou elevar os grafos e girar o equipamento simultaneamente para acessar a posição. Neste momento, o palete bateu contra a estrutura do rack provocando a sua queda sobre o extintor e o piso causando avaria.",
+        "incident_type": "DHL", 
+        "root_cause": "MHE"
+    },
+    {
+        "description": "O Auxiliar Logístico realizava abertura da porta lateral do caminhão graneleiro com auxílio de uma barra de ferro para sustentar e reduzir o peso da porta que auxilia o outro Auxiliar Logístico posicionado sobre a carga do caminhão. Quando, ele realizou a abertura da porta, a barra de ferro não suportou o peso provocando a sua ruptura. Neste momento, a porta abriu bruscamente quase atingindo o auxiliar posicionado no piso.",
+        "incident_type": "DHL", 
+        "root_cause": "Manual handling"
+    },
+    {
+        "description": "O Operador de Empilhadeira movimentava palete com uma empilhadeira retrátil. Ao tentar acessar o outro corredor do Rack utilizando o túnel da rota de acesso aos equipamentos de combate a incêndio VG (Válvulas de Governo), ele precisou desviar de uma fileira de palete armazenado neste túnel. Neste momento, ele passou entre o palete e o montante do rack colidindo contra o espelho convesos posicionado no montante provocando o seu descolamento sem causar avaria.Nota: O espelho foi instalado na altura de 3,40m, a torre da empilhadeira tem 3,60m.",
+        "incident_type": "DHL", 
+        "root_cause": "MHE"
+    },
+    {
+        "description": "O Motorista da Tranportadora All In Logística manobrava o caminhão com a niveladora acoplada para estacionar na doca. Quando, ele abaixou a niveladora do caminhão e tentou estacionar na doca sem autorização do time operacional e que estava com a porta fechada. Neste momento, a niveladora colidiu contra a porta da doca causando avaria na estrutura e na porta. ",
+        "incident_type": "Terceiro", 
+        "root_cause": "Caminhão"
+    },
+    {
+        "description": "O Auxiliar Logístico descarregava manualmente uma carreta. Ao movimentar o produto pela lateral de veículo, ele não observou que havia uma corda presa no inteiro da carreta Neste momento, o seu pé esquerdo pisou sobre a corda e ao movimentar o seu pé direito para frente, ele prensou o seu pé direito entre o caminhão e o protetor de doca (“bumper”) sem causar lesão.",
+        "incident_type": "DHL", 
+        "root_cause": "Manual handling"
+    },
+    {
+        "description": "A Operadora de Empilhadeira movimentava palete na estrutura do Rack com uma empilhadeira retrátil. Ao posicionar os garfos no palete, ele ouviu alguns barulhos e na sequencia uma queda de palete de produtos (impressora) na estrutura. Neste momento, o produto caiu sobre outro patele de produtos (notebook) no piso causando avarias na embalagens de produtos.",
+        "incident_type": "DHL", 
+        "root_cause": "MHE"
+    },
+    {
+        "description": "O Operador de Empilhadeira movimentava um carrinho tipo gaxeta com peças da linha de montagem. Ao puxar o carrinho manualmente com a mão direta para trás, ele não observou a distancia segura entre o seu pé direito e o carrinho. Neste momento, ele realizou uma curva o carrinho colidiu no seu pé direito sem causar lesão.",
+        "incident_type": "DHL", 
+        "root_cause": "Manual handling"
+    },
+    {
+        "description": "O Operador de Empilhadeira armazenava produtos no rack com a empilhadeira retrátil. Ao armazenar o palete (1,75m de altura) no 5°nível, ele não observou a distância segura entre o palete e a luminária. Neste momento, o palete colidiu contra a luminária do teto provocando a ruptura de dois ganchos que prende a luminária no tetos sem causar a sua queda.",
+        "incident_type": "DHL", 
+        "root_cause": "MHE"
+    },
+    {
+        "description": "O Operador de Empilhadeira movimentava um Big Bag de plásticos (tipo PP) com uma empilhadeira tipo GLP para área de abastecimento das injetoras. Ao identificar um vazamento no big bag, ele tentou retirar e baixar a carga simultaneamente. Neste momento, a carga colidiu contra a esteira da injetora posicionada ao seu lado causando avaria.",
+        "incident_type": "DHL", 
+        "root_cause": "MHE"
+    },
+    {
+        "description": "O Técnico de Manutenção I e o Assistente de Manutenção verificavam os sistema elétricos do portão de acesso de veículos na portaria. Quando, eles acionaram o comando da garra tigre indevidamente e como o vigilante não recebeu a comunicação que o sistema em manutenção, o vigilante liberou o motorista para acessar o pátio interno da DHL. Neste momento, o veiculo passou sobre a garra de tigre causando avaria no pneu dianteiro.Nota: Não houve a comunicação do incidente pela área de manutenção e/ou portaria.",
+        "incident_type": "DHL", 
+        "root_cause": "Manual handling"
+    },
+    {
+        "description": "Durante a utilização da maquina de lavagem da louça no refeitório (área sapore) houve um problema no termostato digital (queimou do sensor temperatura). Quando, o equipamento super aqueceu provocando um principio de incêndio na mangueira da maquina. Por conta da fumaça emitida, o sistema de alarme foi acionado.",
+        "incident_type": "Terceiro", 
+        "root_cause": "N/A"
+    },
+    {
+        "description": "A Operadora de Empilhadeira movimentava palete na estrutura do Rack para atividade de contagem cíclica com uma empilhadeira retrátil. Ao retirar um palete da posição os garfos da empilhadeira ultrapassou o limite do palete atingindo o outro palete de trás que estava mal posicionado na estrutura do rack. Neste momento, o palete caiu dentro da longarina provocando o rompimento do strech e a queda de algumas caixas no piso causando avaria no material",
+        "incident_type": "DHL", 
+        "root_cause": "MHE"
+    },
+    {
+        "description": "O Operador de Empilhadeira movimentava palete de produto (material paletizado – resina termoplástica) com uma empilhadeira a combustão de 2500kg. Ao movimentar um palete com 1375kg na área de armazenagem a grade de proteção e os garfos da empilhadeira se soltaram da torre provocando a queda do produto no piso.",
+        "incident_type": "DHL", 
+        "root_cause": "MHE"
+    },
+    {
+        "description": "O Auxiliar de Limpeza da prestadora de serviço Brasanitas, com restrição intelectual, movimentava os coletores de resíduos na área operacional. Ao acessar a área, ele posicionou o contentor e se direcionou as lixeiras. Neste momento, ele tentou passar entre o contentor e uma pilha com 2 paletes colidindo a sua perna esquerda contra o palete causando uma escoriação superficial.",
+        "incident_type": "Terceiro", 
+        "root_cause": "Manual handling"
+    },
+    {
+        "description": "O Motorista da Transportadora Techtrans, realizava atividade retirada de produtos com um caminhão com plataforma acoplada. Ao finalizar a atividade, o Operador acionou o fechamento da porta da doca e simultaneamente o motorista do caminhão tentou sair com o veiculo. Neste momento, o motorista errou e engatou a marcha ré colidindo a plataforma do caminhão contra a porta da doca causando avaria.",
+        "incident_type": "Terceiro", 
+        "root_cause": "N/A"
+    },
+    {
+        "description": "O Auxiliar Logístico separava manualmente produtos (peças metálicas e cinta poste). Quando, ele tentou separar uma peça metalica sem utilizar a luva de segurança. Neste momento, ao pegar a peça com a sua mão esquerda, a peça causou uma escoriação no 1º dedo da mão esquerda.",
+        "incident_type": "DHL", 
+        "root_cause": "Manual handling"
+    },
+    {
+        "description": "O Operador de Empilhadeira armazenava palete de produto na estrutura do rack com uma empilhadeira retrátil. Ao finalizar o armazenamento no 4ºnível da estrutura, ele não retraiu por completo a torre da empilhadeira. Neste momento, ele abaixou os garfos colidindo com o palete armazenado no 3ºnível da estrutura do rack provocando a queda de 2 latas (20 litros de tinta) no piso causando avaria.",
+        "incident_type": "DHL", 
+        "root_cause": "MHE"
+    },
+    {
+        "description": "O Auxiliar Logístico carregava manualmente produtos (refrigerador) na carreta com um carrinho manual. Ao entrar no carreta, o carrinho ficou preso entre o final da niveladora e o piso do carreta. Neste momento, ele tentou empurrar o carrinho provocando o seu desequilíbrio causando a sua queda no piso sem causar lesão e a queda do material dentro da carreta sem causa avaria.",
+        "incident_type": "DHL", 
+        "root_cause": "Manual handling"
+    },
+    {
+        "description": "O Operador de Rebocador abastecia a linha de produção com um rebocador puxando 2 carretinhas. Ao identificar que o seu percurso estava obstruído, ele tentou utilizar um percurso alternativo e não autorizado para garantir o abastecimento da linha. Neste momento, ele tentou realizar o retorno no final do percurso com uma manobra inadequada e velocidade elevado causando o tombamento da carretinha sem causa avaria.",
+        "incident_type": "DHL", 
+        "root_cause": "MHE"
+    },
+    {
+        "description": "O Operador de Empilhadeira separava palete de produtos com uma empilhadeira retrátil. Ao retirar o palete do rack ele tentou scanear a LPN com o RF. Como não foi possivel, ele tentou digitar manualmente e simultaneamente conduzindo o equipamento com uma de suas mãos. Neste momento, ele não observou que o equipamento estava se aproximando da estrutura do rack provocando a colisão causando avaria no protetor do rack.",
+        "incident_type": "DHL", 
+        "root_cause": "MHE"
+    },
+    {
+        "description": "O Auxiliar Logístico movimentava dois refrigeradores (freezer 400lts) com carrinho manual. Ao posicionar os dois refrigeradores apoiando com seu pé direito para iniciar a movimentação, o carrinho se desestabilizou. Neste momento, o refrigerador que estava na posição de cima foi projetado em direção ao seu rosto batendo com a proteção de isopor na sua orelha esquerda sem causa lesão.",
+        "incident_type": "DHL", 
+        "root_cause": "Manual handling"
+    },
+    {
+        "description": "O Operador de Empilhadeira movimentava palete de produtos com uma empilhadeira frontal. Ao manobrar o equipamento para se movimentar até o local definido, ele ouviu um barulho. Neste momento, o piso não suportou o peso do equipamento provocando a ruptura (colapso) causando a queda da empilhadeira dentro do buraco do piso.",
+        "incident_type": "DHL", 
+        "root_cause": "MHE"
+    },
+    {
+        "description": "O Operador de Empilhadeira separava palete de matéria prima no 3°nível da estrutura do Rack com uma empilhadeira retrátil. Ao retirar o palete, ele não observou que o palete estava sobreposto ao palete da rua de trás. Quando, ele ouviu um barulho na rua de trás parando imediatamente o equipamento e deslocou-se até posição. Neste momento, ele observou que as longarinas do 2°e 3° níveis da estrutura do Rack havia cedidas provocando a queda dos paletes de produtos no piso.",
+        "incident_type": "DHL", 
+        "root_cause": "MHE"
+    },
+    {
+        "description": "O Auxiliar Logístico movimentava dois carrinhos vazio utilizando um rebocador elétrico. Após parar para acessar a rua a direita e ao retomar a movimentação, o rebocador subiu a rampa de acesso. Quando, os carrinhos perderam o equilíbrio na curva causando o tombamento do primeiro carrinho sobre o guarda corpo de proteção da faixa de pedestre e o segundo sobre o piso.Nota: Os carrinhos utilizados são do cliente.",
+        "incident_type": "DHL", 
+        "root_cause": "MHE"
+    },
+    {
+        "description": "O Motorista da Transportadora Segura posicionava o caminhão com uma plataforma acoplada para retirada de produtos. Quando, o ajudante do motorista posicionado entre o caminhão e doca de carregamento o auxiliava no estacionamento. Neste momento, o motorista engatou a marcha ré em velocidade inadequada colidindo a plataforma do caminhão contra o guarda corpo projetando a uma distancia de aproximadamente 50cm do seu local.Nota: o ajudante não foi atingindo.",
+        "incident_type": "Terceiro", 
+        "root_cause": "N/A"
+    },
+    {
+        "description": "O Auxiliar Logístico separava manualmente as caixas de produtos acima da altura de seu ombro. Quando, ele tentou retirar as três caixas sem utilizar a escada de apoio, neste momento, umas das caixas que permaneceram armazenada no palete se desequilibrou e caiu sobre seu rosto sem causar lesão.",
+        "incident_type": "DHL", 
+        "root_cause": "Manual handling"
+    },
+    {
+        "description": "Os Operadores de Empilhadeiras retirava palete de produto no stage para ser armazenado na estrutura do rack com empilhadeira retrátil. Quando um dos operadores “A” se movimentou no para sair do local, o operador “B” tentou desviar da empilhadeira. Neste momento, ele não se atentou quanto a barra de proteção contra colisão (bumper) e bateu contra a estrutura de sustentação sem causar avaria.",
+        "incident_type": "DHL", 
+        "root_cause": "MHE"
+    },
+    {
+        "description": "O Operador de Empilhadeira movimentava duas gaiolas metálicas (aramados) com uma empilhadeira elétrica. Quando, ele passou por um desnível do piso as gaiolas metálicas se desequilibram. Neste momento, as gaiolas tombaram sem causa danos.",
+        "incident_type": "DHL", 
+        "root_cause": "MHE"
+    },
+    {
+        "description": "O Operador de Empilhadeira movimentava produtos com uma empilhadeira a combustão. Quando, ele foi solicitado para retirar uma caixa/container contendo um equipamento (600kg) para fabrica que estava posicionada no caminhão tipo sider. Ao retirar a caixa e iniciar o posicionamento sobre o piso, o equipamento se movimentou internamente na caixa. Neste momento, a caixa se deslizou sobre os garfos provocando o tombamento da caixa para frente da empilhadeira causando avaria.",
+        "incident_type": "DHL", 
+        "root_cause": "MHE"
+    },
+    {
+        "description": "O Gerente A participava de uma reunião via call em sua mesa de trabalho com o Gerente de Operações B. Quando Gerente B tentou sentar sobre o armário para acompanhar a reunião. Neste momento, ele apoiou sua mão direita sobre o complemento da mesa, que não suportou o peso provocando o desprendendo o parafuso de fixação causando avaria na mesa.",
+        "incident_type": "DHL", 
+        "root_cause": "N/A"
+    },
+    {
+        "description": "De acordo com as imagens do time de segurança patrimonial a pilha de caixas de biscoitos que estavam separadas sobre o palete depositado no stage caíram no piso sem causar avarias nos produtos.Nota: Não possuía operação durante o momento do acidente.",
+        "incident_type": "DHL", 
+        "root_cause": "N/A"
+    },
+    {
+        "description": "O Operador de Empilhadeira armazenava um palete (peso 1200kg) no 2° nível do rack com uma empilhadeira frontal..Ao posicionar o palete na estrutura, a longarina veio se deformou e não suportou o peso do material causando uma avaria da longarina. ",
+        "incident_type": "DHL", 
+        "root_cause": "MHE"
+    },
+    {
+        "description": "O Operador de Empilhadeira armazenava palete no blocado com uma empilhadeira frontal. Ao tentar armazenar o 2° palete sobreposto ao outro palete, ele não observou a distancia correta entre o palete e a coifa do sistema de ventilação. Neste momento, o palete colidiu contra a coifa do sistema de ventilação provocando a sua queda no piso causando avarias",
+        "incident_type": "DHL", 
+        "root_cause": "MHE"
+    },
+    {
+        "description": "O Operador de Empilhadeira armazenava de produtos na estrutura do rack com uma empilhadeira retrátil. Ao finalizar o processo de armazenamento no 1°nível sem observar que a longarina não estava presa no montante. Quando, movimentava a empilhadeira em direção ao stages, ele ouviu um barulho próximo a estrutura do rack. Neste momento, ele retornou a posição e observou que a longarina havia cedido causando a queda do palete no piso.",
+        "incident_type": "DHL", 
+        "root_cause": "MHE"
+    },
+    {
+        "description": "O Operador de Empilhadeira armazenava palete de produto (eixos de 15kg cada) com uma empilhadeira retrátil. Quando, ele girou a empilhadeira para armazenar o palete no 4° nível da estruturra do Rack, a peça bateu contra o intertravamento do rack. Neste momento, a cinta de fixação do produto rompeu provocando a queda de 2 peças no piso sem causar avarias.",
+        "incident_type": "DHL", 
+        "root_cause": "MHE"
+    },
+    {
+        "description": "O Operador de Empilhadeira armazenava produtos na estrutura do rack com empilhadeira retrátil. Ao manobrar a empilhadeira, ele não observou a distancia correta da empilhadeira e o material armazenado na estrutura ao lado. Neste momento, a empilhadeira colidiu a traseira contra a bobina de cabos no 2° nível causando avaria no farol da empilhadeira",
+        "incident_type": "DHL", 
+        "root_cause": "MHE"
+    },
+    {
+        "description": "Os Auxiliar Logistico A, B e C trafegavam pela operação com uma a transpaleteira elétrica. Quando, a transpaleteira conduzida pelo Auxiliar “A” parou de funcionar depois de passar por uma avaria no piso. Neste momento, os equipamentos não conseguiram parar provocando a colisão entre os equipamentos causando um engavetamento de equipamentos.",
+        "incident_type": "DHL", 
+        "root_cause": "MHE"
+    },
+    {
+        "description": "O Operador de Empilhadeira “A” realizava atividade de picking com embalagem de chapas de aço cintadas apenas ao produto com uma empilhadeira. Ao realizar a movimentação pelo corredor e devido o espaço restrito, ele não observou que estava muito próximo de outro equipamento “B”. Quando, ele tentou manobrar em ré, colidiu com a sua roda da empilhadeira contra o garfo de outra empilhadeira que se movimentava no sentido contrario provocando a queda das embalagem de chapas de aço caísse no piso. ",
+        "incident_type": "DHL", 
+        "root_cause": "MHE"
+    },
+    {
+        "description": "O Operador de Empilhadeira estacionou a selecionadora para deslocar se para usar o banheiro. Ao retornar e iniciar a movimentação da selecionadora, ele não observou que o sistema do fio indutivo estava desabilitado. Neste momento, ele colidiu o equipamento contra a estrutura do rack causando avarias.",
+        "incident_type": "DHL", 
+        "root_cause": "MHE"
+    },
+    {
+        "description": "O Operador de Empilhadeira movimentando material (Bag de açúcar) com uma empilhadeira frontal. Quando, ele decidiu movimentar o material içado pelos garfos da empilhadeira e com a torre elevada. Ao sair pela porta de acesso do armazém, ele não observou a altura da torre. Neste momento, a grade de proteção da torre da empilhadeira colidiu contra a parede causando avarias na parede e na grade da torre da empilhadeira.",
+        "incident_type": "DHL", 
+        "root_cause": "MHE"
+    },
+    {
+        "description": "A porta da doca, passou por manutenção por uma empresa terceirizada após ter causando um queda da porta de forma acidental no dia 08 de maio. Após passar por alguns teste e ser liberada para as atividades operacionais. O Auxiliar Logístico foi utilizar 2 dias após a liberação e ao acionar o comando de subida porta subiu aproximadamente 1,5 metro e novamente se deslocou repentinamente contra o chão .",
+        "incident_type": "DHL", 
+        "root_cause": "N/A"
+    },
+    {
+        "description": "O Operador de Empilhadeira “A” manobrava o equipamento para abastecimento de posto simultaneamente o Operador de Empilhadeira “B” trafegava em corredor principal. Quando, o Operador “B” não observou que o Operador “A” realizava a manobra. Neste momento, o equipamento colidiu a parte traseira com a lateral do o outro equipamento.",
+        "incident_type": "DHL", 
+        "root_cause": "MHE"
+    },
+    {
+        "description": "A porta da doca, passou por manutenção por uma empresa terceirizada após ter causando um queda da porta de forma acidental no dia 08 de maio. Após passar por alguns teste e ser liberada para as atividades operacionais. O Auxiliar Logístico foi utilizar 2 dias após a liberação e ao acionar o comando de subida porta subiu aproximadamente 1,5 metro e novamente se deslocou repentinamente contra o chão .",
+        "incident_type": "DHL", 
+        "root_cause": "N/A"
+    },
+    {
+        "description": "O Auxiliar Logístico movimentava palete danificados com uma transpaleteira elétrica. Ao realizar a curva a direita, ele não parou no cruzamento de acesso ao corredor principal. Neste momento, a pilha de paletes desestabilizou tombando sobre o corredor e a estrutura do rack.",
+        "incident_type": "DHL", 
+        "root_cause": "MHE"
+    },
+    {
+        "description": "A Operadora de Empilhadeira movimentava produtos na estrutura solteira do rack com uma empilhadeira retrátil. Ao tentar retirar o palete com apenas 1 camada de produto do 5°nível, ela não observou a distância segura do posicionamento dos garfos da empilhadeira no palete. Neste momento, o palete tombou dentro da estrutura do rack atingindo o palete armazenado no 4°nível e ficando preso na tela de proteção sem causar avaria.",
+        "incident_type": "DHL", 
+        "root_cause": "MHE"
+    },
+    {
+        "description": "O Auxiliar Logístico deslocava se com uma transpaleteira elétrica no sentido da doca. Quando, ele errou o comando do equipamento para frear o equipamento. Ao observar que iria colidir contra o bebedouro, ele pulou do equipamento em movimento. Neste momento, o equipamento colidiu contra o bebedouro causando avaria.",
+        "incident_type": "DHL", 
+        "root_cause": "MHE"
+    },
+    {
+        "description": "O Auxiliar Logístico trocava a bateria da transpaleteira elétrica. Quando, ele finalizou o processo de troca e se deslocava em direção à área operacional a bateria se soltou da transpaleteira.Nota: Não foi acionado a trava de segurança.",
+        "incident_type": "Terceiro", 
+        "root_cause": "MHE"
+    },
+    {
+        "description": "A Auxiliar de Armazém separava caixas de produtos na prateleira. Quando, ela tentou puxar com a ponta dos dedos a caixa que estava acima da altura da sua cabeça e armazenada no 5°nível da prateleira, ela observou que a outra extremidade da prateleira começou a tombar em efeito tipo dominó em sua direção. Neste momento, ela precisou sustentar a prateleira para não cair sobre ela. Não houve lesão.Obs: A colaboradora foi socorrida pelos colaboradores próximo do local do acidente.",
+        "incident_type": "DHL", 
+        "root_cause": "Manual handling"
+    },
+    {
+        "description": "O Operador de Empilhadeira (temporário) movimentava palete de produtos na estrutura do rack. Quando, ele tentou retirar o palete armazenado no túnel uma das caixas bateu no plano aramado da posição. Neste momento, algumas caixas tombaram no piso sem causa dano.",
+        "incident_type": "DHL", 
+        "root_cause": "MHE"
+    },
+    {
+        "description": "Os Auxiliares Logísticos carregava o caminhão com um palete duplado de aerossóis com auxilio de um carrinho hidráulico. Ao acessar a niveladora da doca que estava elevada, o carrinho hidráulico enroscou na niveladora provocando a instabilidade. Neste momento, a carga tombou sobre a niveladora e piso do armazém sem causa avarias.",
+        "incident_type": "DHL", 
+        "root_cause": "Manual handling"
+    },
+    {
+        "description": "A Auxiliar Logístico finalizou o carregamento de materiais no carrinho tipo “biga”. Quando, ela não observou o posicionamento correto do material no carrinho e ao tentar fechar a tampa do carrinho a tampa bateu nos materiais. Neste momento, a tampa retornou em direção do seu corpo caindo sobre o seu pé esquerdo sem causar lesão.",
+        "incident_type": "DHL", 
+        "root_cause": "Manual handling"
+    },
+    {
+        "description": "O Motorista da empresa Diferencial Log se deslocou para o site para entregar a carreta vazia e retirar a carreta carregada. Ao conectar a carreta ao caminhão, ele não acionou o freio estacionário, retirou os calços e se deslocou até a sala administrativa para retirada nota fiscal. Neste momento, ele observou que o caminhão estava se deslocando pelo pátio externo sem causar dano.Nota: O freio estacionário foi acionado por outro motorista (manobra).",
+        "incident_type": "Terceiro", 
+        "root_cause": "MHE"
+    },
+    {
+        "description": "A Operadora de Empilhadeira movimentava palete de produtos com uma empilhadeira retrátil. Ao retirar o palete do 5nível, ela abaixou a torre da empilhadeira e simultaneamente utilizando o RF (foto 1) tentou acessar o túnel da estrutura do Rack. Neste momento, ela colidiu contra o protetor do rack (Mike Tyson) causando avaria no protetor e montante.",
+        "incident_type": "DHL", 
+        "root_cause": "MHE"
+    },
+    {
+        "description": "A carreta da empresa Gab estava posicionada na Doca 29 e ao termino do descarregamento da carga a granel, o manobrista da empresa Magna (contratado pelo cliente) foi acionado para manobrar a carreta até o lado oposto do pátio, ele acionou a pata de elefante sem acionar o dispositivo de travamento. No dia seguinte, um dos colaboradores do cliente ao passar em frente à carreta, percebeu que a mesma estava tombada para frente. Não houve danos. ",
+        "incident_type": "Terceiro", 
+        "root_cause": "MHE"
+    },
+    {
+        "description": "O Operador de Empilhadeira movimentava produtos (refrigeradores) com uma empilhadeira Clamp. Ao movimentar 2 blocos (8 refrigeradores), ele não observou que na posição havia mais 2 blocos acima. Neste momento, ele iniciou a saída de marcha ré e ao acessar o corredor os produtos se soltaram tombando no piso causando avarias.",
+        "incident_type": "DHL", 
+        "root_cause": "MHE"
+    },
+    {
+        "description": "A Cozinheira da empresa GR realizava o aquecimento do leite para ser utilizado no café da manha do refeitório. A colaboradora colocou as embalagens (tetrapack) diretamente no forno para realizar o aquecimento. Neste momento, ao puxar a cuba do forno para retirar as embalagens, o leite derramou sobre o ombro da colaboradora causando queimaduras de 2°grau.",
+        "incident_type": "Terceiro", 
+        "root_cause": "Manual handling"
+    },
+    {
+        "description": "O Técnico de Manutenção da empresa contratada Still efetuava a regulagem da altura do berço da bateria. Ao posicionar o seu braço esquerdo embaixo do berço, ele não observou que o berço após voltar da pintura possuía rebarbas. Neste momento, ele bateu com seu braço esquerdo na rebarba causando um corte superficial.",
+        "incident_type": "Terceiro", 
+        "root_cause": "Manual handling"
+    },
+    {
+        "description": "O Operador de Empilhadeira trafegava com uma empilhadeira retrátil. Quando, ele trafegava pelo corredor do rack, ele perdeu o controle do equipamento pois o sistema de controle do equipamento travou. Neste momento, ele colidiu contra o protetor do rack causando uma avaria no protetor e montante.",
+        "incident_type": "DHL", 
+        "root_cause": "MHE"
+    },
+    {
+        "description": "O Operador de Empilhadeira transitava com a empilhadeira retrátil para realizar uma verificação no final do armazém. Durante o deslocamento pelo túnel, ele identificou uma interdição na passagem pelo túnel. Ao frear o equipamento rapidamente, ele perdeu o controle do equipamento projetando contra a proteção do rack (guarda rail) causando avaria no montante e na proteção do rack.",
+        "incident_type": "DHL", 
+        "root_cause": "MHE"
+    },
+    {
+        "description": "O Operador de Empilhadeira movimentava palete com uma empilhadeira retrátil. Quando, o Auxiliar Logístico retirou o isolamento do local com resíduos de produto químico no piso. Ao acessar o corredor do rack sem reduzir a velocidade, ele passou com a empilhadeira por cima do resíduo de produto no piso. Neste momento, ele perdeu a estabilidade do equipamento e colidiu contra a estrutura do rack causando avaria no protetor e montante.",
+        "incident_type": "DHL", 
+        "root_cause": "MHE"
+    },
+    {
+        "description": "O Operador de Empilhadeira retirava palete de produtos (compressor) completo que estava sobre o palete fracionado com uma empilhadeira frontal. Quando, ele não observou que a ponta do garfo ultrapassou o limite do palete, neste momento, o palete enroscou no palete atrás provocando a sua queda causando avaria nos produtos.",
+        "incident_type": "DHL", 
+        "root_cause": "MHE"
+    },
+    {
+        "description": "O Auxiliar Logístico movimentava bateria dupladas com uma Transpaleteira Elétrica. Ao movimentar 2 conjunto de bateria dupladas somente no garfo esquerdo na transpaleteira da área do blocado para o stage. Neste momento, ele tentou realizar a curva de acesso uma das bateria desequilibrou provocando a queda no piso sem causar avaria.",
+        "incident_type": "DHL", 
+        "root_cause": "MHE"
+    },
+    {
+        "description": "O Auxiliar Logístico movimentava uma palete de bobina com o carrinho hidráulico. Quando, ele tentou realizar a curva para acessar o corredor principal um dos lados que estava sem o calço, se desequilibrou. Neste momento, a bobina tombou e rolou em direção a parede sem causar avaria.",
+        "incident_type": "DHL", 
+        "root_cause": "Manual handling"
+    },
+    {
+        "description": "O Motorista da Transportadora I9 manobrava para posicionar na doca. Quando, ele não observou que os eixos da carreta estava suspenso. Neste momento, a traseira da carreta colidiu com a tubulação de combate á incêndio suspensa acima da porta da Doca, ocasionando avaria na tubulação. ",
+        "incident_type": "Terceiro", 
+        "root_cause": "MHE"
+    },
+    {
+        "description": "O Motorista da Transportadora Gab posicionava o caminhão para retirada da carreta. Ao tentar engatar o caminhão na carreta, ele saiu com o caminhão sem realizar o teste. Neste momento, a carreta desengatou provocando a queda da carreta colidindo contra a tubulação posicionado no teto da doca causando avaria na tubulação.",
+        "incident_type": "Terceiro", 
+        "root_cause": "MHE"
+    },
+    {
+        "description": "O Auxiliar Logístico movimentava a transpaleteira elétrica em direção ao estacionamento. Quando, ele observou que haviam dois paletes de produtos obstruindo o local de passagem de equipamento. Neste momento, ele utilizou a faixa de pedestres sem observar a distancia segura entre a caixa de hidrante e o equipamento provocando a colisão causando avaria na caixa de hidrante. ",
+        "incident_type": "DHL", 
+        "root_cause": "MHE"
+    },
+    {
+        "description": "O Operador de Empilhadeira organizava as caixas mobil (plástico) na área de picking com uma empilhadeira frontal. Quando, ele pegou 6 caixas para posicionar sobre mais 1 caixa, ele bateu as caixas ultrapassando o limite do guarda corpo. Neste momento, 2 caixas caíram em direção a faixa de pedestre atingindo a perna do colaborador sem causar lesão.",
+        "incident_type": "DHL", 
+        "root_cause": "MHE"
+    },
+    {
+        "description": "O Operador de Empilhadeira movimentava palete com uma empilhadeira retrátil. Ao se deslocar em direção ao stage e simultaneamente ele tentou posicionar corretamente o palete sobre a patola da empilhadeira sem olhar para a direção da rua. Neste momento, a empilhadeira colidiu contra a estrutura do rack causando aviaria",
+        "incident_type": "DHL", 
+        "root_cause": "MHE"
+    },
+    {
+        "description": "O Auxiliar de Inventário em sinergia na operação Nokia conferia produtos na bancada no stage. Ao armazenar o produto dentro da caixa de papelão, ele bateu com a sua mão direita contra a borda da caixa causando uma escoriação no 5° dedo da mão direita.",
+        "incident_type": "DHL", 
+        "root_cause": "Manual handling"
+    },
+    {
+        "description": "O Operador de Empilhadeira armazenava 2 paletes produtos (com 1 Antenas em cada palete) na área externa com uma empilhadeira a Gás. Quanto, ele tentou armazenar de frente os paletes na posição sem observar a distancia correta do garfo da empilhadeira até o outro produto armazenado na posição. Neste momento, o garfo colidiu contra a antena causando uma avaria na antena.",
+        "incident_type": "DHL", 
+        "root_cause": "MHE"
+    },
+    {
+        "description": "Os Auxiliares Logisticos carregavam manualmente o caminhão com produtos (refrigerador revestido por uma embalagem de plástico e isopor). Quando, o Auxiliar Logístico “A” posicionava o produto sobre o outro produto no interior do caminhão, ele posicionou incorretamente a sua mão esquerda de apoio para elevar o produto. Neste momento, o produto escorregou de sua mão esquerda provocando a queda do produto em direção a sua cabeça batendo levemente sem causar lesão.",
+        "incident_type": "DHL", 
+        "root_cause": "Manual handling"
+    },
+    {
+        "description": "O Auxiliar Logístico movimentava palete com uma transpaleteira elétrica. Ao retirar um palete de dentro do baú em direção ao stage. Neste momento, a transpaleteira foi projetada contra o baú do caminhão provocando uma colisão causando avaria.",
+        "incident_type": "DHL", 
+        "root_cause": "MHE"
+    },
+    {
+        "description": "O Motorista TAC transitava da cidade de Cajamar-SP sentido Serra - ES pela rodovia BR 116. Neste momento, um caminhão que estava a sua frente diminuiu bruscamente a velocidade e o motorista não conseguir frear, colidindo na traseira do caminhão, causando avarias em seu veículo.",
+        "incident_type": "Terceiro", 
+        "root_cause": "Caminhão"
+    },
+    {
+        "description": "A auxiliar logístico I movimentava um palete de produto com um carrinho hidráulico. Ao passar pela rota de fuga, havia um outro palete de pé encostado no montante. Neste momento, a auxiliar passou próximo a esse montante e colidiu a carga no palete que foi projetado em direção ao seu pé esquerdo. Não houve lesão.",
+        "incident_type": "DHL", 
+        "root_cause": "Manual handling"
+    },
+    {
+        "description": "O operador de empilhadeira movimentava paletes com uma empilhadeira frontal. Ao retirar um palete sobreposto (superior de um palete duplado) que estava próximo a uma tubulação de sistema de ventilação, a torre da empilhadeira colidiu contra o difusor de ar, derrubando-o e causando avarias no equipamento.",
+        "incident_type": "DHL", 
+        "root_cause": "MHE"
+    },
+    {
+        "description": "O Motorista terceiro finalizou uma atividade de descarregamento na doca com um caminhão. Neste momento, ao realizar a manobra para sair com o veiculo, acabou colidindo o para-choque do caminhão contra um produto que estava mal posicionado na área externa, causando avaria na embalagem do produto.",
+        "incident_type": "Terceiro", 
+        "root_cause": "Caminhão"
+    },
+    {
+        "description": "O motorista TAC abriu as portas do baú para realizar o processo de vistoria do veículo na eclusa da portaria do condomínio de Cajamar. Após ser liberado, ele não fechou a porta do baú, quando ao realizar a curva para sair da eclusa, o feixe que segura a porta se soltou e a porta ficou presa no portão, causando avaria na porta do baú e no portão.",
+        "incident_type": "Terceiro", 
+        "root_cause": "Caminhão"
+    },
+    {
+        "description": "O operador de empilhadeira movimentava produtos (refrigeradores) com uma empilhadeira GLP com dispositivo Clamp. Ao tentar retirar 2 blocos com 4 refrigeradores cada, ele não observou que havia mais 2 blocos posicionado no nível de cima. Neste momento, ao sair em marcha ré, os refrigeradores se soltaram do bloco provocando a sua queda no piso, causando avarias.",
+        "incident_type": "DHL", 
+        "root_cause": "MHE"
+    },
+    {
+        "description": "O operador de transpaleteira se deslocava pelo túnel e logo atrás o operador de empilhadeira se deslocava no mesmo sentido. Nesse momento, um auxiliar logístico parou no cruzamento do túnel e o operador de transpaleteira freou bruscamente seu equipamento para dar preferência ao pedestre. O operador de empilhadeira não conseguiu parar a empilhadeira e, ao tentar desviar da transpaleteira a sua frente, acabou colidindo na estrutura do rack, causando avarias.",
+        "incident_type": "DHL", 
+        "root_cause": "MHE"
+    },
+    {
+        "description": "O auxiliar logístico realizava o processo de organização da área com uma transpaleteira elétrica desembarcada com torre. Ao armazenar o produto na caixa móbil no 4º nível da estrutura porta palete, o material perdeu a estabilidade e o equipamento veio a se deslocar para o lado direito, causando o tombamento da transpaleteira e consequentemente do material. Não houve lesão.",
+        "incident_type": "DHL", 
+        "root_cause": "MHE"
+    },
+    {
+        "description": "O Técnico em Mecânico da empresa Crown realizava manutenção corretiva na empilhadeira pantográfica. Ao efetuar teste operacional de elevação da torre e da válvula hidráulica, o técnico em mecânica estava olhando para a base do equipamento e elevou a torre, que durante a subida veio a colidir no bico de splinklers, causando o acionamento do sistema de combate a incêndio.",
+        "incident_type": "Terceiro", 
+        "root_cause": "MHE"
+    },
+    {
+        "description": "O operador de empilhadeira retirava uma carga de medida (90x90) no 7º nível da estrutura porta palete. Ao encostar no palete com os garfos da empilhadeira, a carga se desestabilizou e o palete caiu sobre o 6º nível da estrutura porta palete e posteriormente caiu sobre o piso. Não houve avarias ao produto.",
+        "incident_type": "DHL", 
+        "root_cause": "MHE"
+    },
+    {
+        "description": "O motorista da transportadora realizava a manobra da carreta para estacionar na doca de recebimento. Durante a manobra, o motorista não observou a distância segura entre a carreta e a doca e colidiu o lado esquerdo da carreta contra a estrutura da doca, causando avarias.",
+        "incident_type": "DHL", 
+        "root_cause": "Caminhão"
+    },
+    {
+        "description": "O operador de empilhadeira realizava a retirada de carga da estrutura porta palete com o auxílio de uma empilhadeira retrátil. Ao retirar o palete do 4º nível da estrutura, a carga se desestabilizou e caiu sobre o piso e o painel da empilhadeira. Não houve avarias.",
+        "incident_type": "DHL", 
+        "root_cause": "MHE"
+    },
+    {
+        "description": "O operador de empilhadeira e o auxiliar logístico I movimentavam paletes de produtos no stage do outbound com o auxílio de uma empilhadeira e transpaleteira, respectivamente. Nesse momento o operador saiu com a empilhadeira do stage onde armazenava o produto e movimentou a empilhadeira sem olhar na direção de deslocamento, colidindo com a carga que estava nos garfos da transpaleteira que estava parada a frente. Não houve avaria.",
+        "incident_type": "DHL", 
+        "root_cause": "MHE"
+    },
+    {
+        "description": "O operador de empilhadeira realizava o processo de troca de baterias utilizando um trocador magnético. Ao colocar a bateria na máquina, o operador simultaneamente conversava com um auxiliar logístico que estava no local e tomou a ação de dar um tranco na máquina e não desligou o magnético. Quando o operador retornou com o trocador de ré, a bateria ficou presa no magnético e foi projetada ao piso, sem causar avarias. ",
+        "incident_type": "DHL", 
+        "root_cause": "MHE"
+    },
+    {
+        "description": "O operador de empilhadeira realizava o armazenamento de produtos na estrutura porta palete. Ao realizar a leitura sistêmica de um palete, o sistema indicou que não havia posição livre para armazenamento na palete na estrutura. O operador se deslocou com o palete para realizar o armazenamento do produto em uma rua que ele sabia que havia uma posição livre no 5º nível da estrutura. No momento da armazenagem, o produto possuía dimensões maior que a posição e a última camada de caixas se chocou contra a posisão do 6º nível, causando a queda de duas caixas sobre a empilhadeira sem causas avarias.",
+        "incident_type": "DHL", 
+        "root_cause": "MHE"
+    },
+    {
+        "description": "O ajudante da transportadora realizava o carregamento de paletes no veículo utilizando um carrinho hidráulico. Ao entrar no veículo com o palete de produtos, o motorista retirou o calço das rodas e desengatou o caminhão, levando o veículo a se movimentar na doca. Neste momento, o ajudante que estava dentro do veículo se desequilibrou, com isso o carrinho hidráulico com o palete de produtos tombaram e ficaram entre o vão do veículo e a plataforna da doca. Não houve lesão e avaria.",
+        "incident_type": "Terceiro", 
+        "root_cause": "Manual handling"
+    },
+    {
+        "description": "O Motorista da RT transportadora manobrou o caminhão na doca para descarregar. Quando, ao acionar o freio estacionário do veículo, o motorista desceu para abrir a porta da carreta. Nesse momento, o veículo se movimentou no pátio e colidiu na cerca de divisa do site, sem causa danos materiais.",
+        "incident_type": "Terceiro", 
+        "root_cause": "Caminhão"
+    },
+    {
+        "description": "A Auxiliar Logístico movimentação de palete com uma transpaleteira elétrica. Ao efetuar a manobra para armazenar o palete na posição, ela não observou o espaço necessário para realizar o giro. Neste momento, a sua mão direita escorregou do manche, fazendo com que ela perdesse o controle do equipamento projetando-o contra a estrutura do rack colidindo contra a longarina sem causar avaria/lesão",
+        "incident_type": "DHL", 
+        "root_cause": "MHE"
+    },
+    {
+        "description": "O Operador de Empilhadeira movimentava materiais com auxilio da empilhadeira retrátil. Quando, ele se deslocou para a área de armazenagem sem seguir o percurso correto. Neste momento, ele tentou passar pelos stages colidindo a torre da empilhadeira contra a canaleta elétrica causando avaria.",
+        "incident_type": "DHL", 
+        "root_cause": "MHE"
+    },
+    {
+        "description": "O Operador de Empilhadeira abastecia da área de Metalurgia com empilhadeira. Ao descer do equipamento para beber água no bebedouro, ele observou que o bebedouro estava desligado. Neste momento, ele tentou conectar o plug na tomada causando um curto circuito.",
+        "incident_type": "DHL", 
+        "root_cause": "Manual handling"
+    },
+    {
+        "description": "O Operador de Empilhadeira realizava troca de bateria. Após substituir a bateria da empilhadeira, o operador movimentou o equipamento em direção à área operacional sem acionar a trava de baterias. Neste momento, ao realizar o giro da empilhadeira dentro da sala de bateria para posicionar no local definido, a bateria caiu no piso.",
+        "incident_type": "DHL", 
+        "root_cause": "MHE"
+    },
+    {
+        "description": "Durante o processo de troca de bateria do equipamento elétrico retrátil, o Operador de Empilhadeira responsável pelo processo não verificou a colocação da trava de segurança da bateria. Ao retornar para sala de bateria para fixar a trava, ele precisou realizar um giro do equipamento para colocar na posição correta. Neste momento, a bateria se soltou caindo sobre o piso sem causar dano. ",
+        "incident_type": "DHL", 
+        "root_cause": "MHE"
+    },
+    {
+        "description": "O Motorista 'A' prestador de serviço manobrava o caminhão para estacionar na doca. Quando, o motorista “B” operou a niveladora de doca com o contentor de rodas sobre ela para auxiliar o estacionamento do caminhão. Neste momento, o contentor se movimentou em direção ao piso provocando a sua queda e avarias.",
+        "incident_type": "Terceiro", 
+        "root_cause": "MHE"
+    },
+    {
+        "description": "O Operador de Empilhadeira realizava a movimentação do palete com o auxilio da empilhadeira retrátil para realizar o picking de vidros. Ao elevar os garfos do equipamento para iniciar a retirada do material da posição, a grade de proteção de carga do equipamento atingiu a longarina da posição acima provocando o desencaixe e queda das caneletas metálicas da posição.",
+        "incident_type": "DHL", 
+        "root_cause": "MHE"
+    },
+    {
+        "description": "O Auxiliar Logístico estava realizando o carregamento de produtos (refrigeradores). Ao se abaixar para erguer o produto, ele não observou a distancia segura e bateu o seu rosto contra a base de madeira do carrinho sem causar lesão no seu olho direito.",
+        "incident_type": "DHL", 
+        "root_cause": "Manual handling"
+    },
+    {
+        "description": "Durante a queda de energia em parte do galpão, o gerador foi acionado para reestabelecer o sistema elétrico. Tempos depois, foi acusada pela central de alarme que havia fumaça na cabine de energia. Foi acionado um prestador de serviço de elétrica e, ao chegar no local, detectou uma grande concentração de fumaça, devido ao aquecimento que ocorreu no trafo. Os eletricistas desernergizaram o transformador e iniciaram o combate ao princípio de incêndio. Não houve avarias.",
+        "incident_type": "DHL", 
+        "root_cause": "N/A"
+    },
+    {
+        "description": "O Auxiliar Logístico realizava a atividade de Picking. Ao observar que precisaria de outro palete vazio, ele tentou abaixar o palete da pilha de paletes. Neste momento, ele soltou o palete no piso sem observar a distancia segura entre o palete e a sua perna causando a batida do palete na sua perna sem causar lesão.",
+        "incident_type": "DHL", 
+        "root_cause": "Manual handling"
+    },
+    {
+        "description": "O Auxiliar Logístico carregava produtos com uma transpaleteira elétrica. Quando estava saindo do Baú a rampa niveladora involuntariamente levantou rapidamente. Neste momento, o colaborador percebeu e retirou sua perna direita da plataforma da transpaleteira elétrica, deixando o equipamento colidir contra a rampa da niveladora, causando avaria no equipamento.",
+        "incident_type": "DHL", 
+        "root_cause": "MHE"
+    },
+    {
+        "description": "O Operador de Empilhadeira (em sinergia) realizava atividade de movimentação de paletes. Quando ao tentar armazenar o palete no último nível, ele colidiu grade da torre da empilhadeira contra a estrutura causando avarias na empilhadeira.",
+        "incident_type": "DHL", 
+        "root_cause": "MHE"
+    },
+    {
+        "description": "O Operador de Empilhadeira trocava a bateria da empilhadeira retrátil com um trocador magnético. Quando, ao colocar a bateria carregada na empilhadeira, o operador não desligou as funções magnéticas do trocador. Nesse momento, ao retirar o trocador para posicionar no local correto, o magnético puxou a bateria da empilhadeira, causando a queda da bateria no piso.",
+        "incident_type": "DHL", 
+        "root_cause": "MHE"
+    },
+    {
+        "description": "Os Auxiliares Logísticos “A” e “B” trocava a bateria da transpaleteira elétrica com trocador manual. Quando, durante a retirada da bateria carregada do berço do carregador para carrinho, o auxiliar “A” não foi posicionou a trava de segurança. Nesse momento, o auxiliar “B” movimentou o carinho para levar a bateria até a transpaleteira elétrica, causando a queda da bateria no piso sem causar avarias.",
+        "incident_type": "DHL", 
+        "root_cause": "MHE"
+    },
+    {
+        "description": "O Operador de Empilhadeira movimentava uma empilhadeira frontal com palete de produtos (bag’s) sobrepostos. Quando, ao passar pela porta de saída do armazém, a alça do bag sobreposto esbarrou no aparelho de ar, causando a queda e avaria no aparelho.",
+        "incident_type": "DHL", 
+        "root_cause": "MHE"
+    },
+    {
+        "description": "O Operador de Empilhadeira movimentava um palete duplado para área de retrabalho com o auxílio de uma empilhadeira retrátil. Ao realizar a curva de acesso ao corredor, ele ouviu alguns barulhos. Neste momento, o palete quebrou provocando a queda do produto no piso.",
+        "incident_type": "DHL", 
+        "root_cause": "MHE"
+    },
+    {
+        "description": "Motorista da transportadora Roque Transportes, que presta serviço para operação CPFL Piracicaba, em rota na Rodovia Marechal Rondon Km 354, carregado para entrega na cidade de Araçatuba bateu no guard-rail e caiu em um barranco. Em seguida, o veículo pegou fogo. O motorista não conseguiu sair a tempo e veio a óbito.",
+        "incident_type": "Terceiro", 
+        "root_cause": "Caminhão"
+    },
+    {
+        "description": "O Operador de Empilhadeira trocava a bateria da empilhadeira utilizando um trocar magnético. Quando, ao depositar a bateria carregada no berço, o operador removeu somente uma das correntes de segurança, deixando a outra corrente fixa na bateria. Neste momento, ao acionar o extrator do trocador, a corrente puxou a bateria provocando a queda da bateria no piso sem causar avarias.",
+        "incident_type": "DHL", 
+        "root_cause": "MHE"
+    },
+    {
+        "description": "O Operador de Empilhadeira trocava bateria da selecionadora utilizando um trocador de bateria. Quando, ao perceber que a bateria não estava posicionada corretamente no berço, decidiu puxá-la para deixar mais para frente. Neste momento, ele puxou a bateria para frente, provocando o deslocamento do berço para trás provocando a queda da bateria no piso sem causar avarias.",
+        "incident_type": "DHL", 
+        "root_cause": "MHE"
+    },
+    {
+        "description": "O Auxiliar Logístico carregava um veículo na doca utilizando um carrinho hidráulico sem ter solicitado e posicionado a chave do caminhão na porta da doca. Quando, o conferente sinalizou para o motorista posicionado na doca ao lado que o veiculo estava liberado. Então, o motorista entrou no veiculo e iniciou a retirada da doca e simultaneamente o auxiliar posicionava um palete dentro do veiculo. Neste momento, o auxiliar tentou se equilibrar dentro do veiculo em movimento provocando a sua queda no interior do veiculo sem causar lesão.",
+        "incident_type": "DHL", 
+        "root_cause": "Manual handling"
+    },
+    {
+        "description": "O Operador de Empilhadeira movimentava paletes de produtos utilizando uma empilhadeira retratil. Ao finalizar o armazenamento de um palete de produto na estrutura do rack, ele não observou que o garfo da empilhadeira estava inclinado e tentou retirar os garfos do palete. Neste momento, ao sair com a empilhadeira, as pontas do garfo puxaram o palete para fora da estrutura do rack, causando a queda do palete com produtos no piso, sem causar avarias.",
+        "incident_type": "DHL", 
+        "root_cause": "MHE"
+    },
+    {
+        "description": "O Operador de empilhadeira descarregava de palete duplado na doca utilizando um carrinho hidráulico. Quando, ao posicionar o palete no stage, ele não observou que o palete estava danificado. Neste momento, ao retirar os garfos do carrinho hidráulico os produtos tombaram no piso sem causar avaria.",
+        "incident_type": "DHL", 
+        "root_cause": "Manual handling"
+    },
+    {
+        "description": "O Operador de Empilhadeira carregava o veículo utilizando uma empilhadeira elétrica frontal. Quando, simultaneamente o Auxiliar Logístico estacionou a transpaleteira elétrica ao lado do cookpit (posto de trabalho operacional). Neste momento, o operador ao sair de ré da carreta, ele fez o giro com a empilhadeira sem observar o percurso colidindo contra os garfos da transpaleteira que estava parada sem causar avarias.",
+        "incident_type": "DHL", 
+        "root_cause": "MHE"
+    },
+    {
+        "description": "O Operador de Empilhadeira (colaborador A) estava transportando 2 racks com produtos com uma empilhadeira. Ao pegar o rack superior com os garfos realizando a manobra simultânea (descolar e com movimentação lateral), quando o Trainee (colaborador “B”) deslocava com outro rack vazio simuntaneamente. Neste momento, o rack movimentado pelo colaborador A colidiu contra o rack em movimento causando o tombamento da carga sem causar avaria.",
+        "incident_type": "DHL", 
+        "root_cause": "MHE"
+    },
+    {
+        "description": "O Operador de Empilhadeira retirava palete de caixas (sem tampa) em 5º nível da estrutura de rack com uma empilhadeira retrátil. Ao iniciar movimentação o palete desestabilizou provocando a queda do palete no rack causando avaria na caixa.",
+        "incident_type": "DHL", 
+        "root_cause": "MHE"
+    },
+    {
+        "description": "A Auxiliar Logístico executava atividade em uma máquina de carimbagem na área refrigerada. Ao ajustar a esteira com sua mão esquerda para realizar a preparação para receber o produto, ele posicionou a mão direita sobre a proteção do final de curso. Neste momento, a ponta da luva de segurança foi puxada pela esteira no espaço entre a esteira e a proteção. Não houve lesão.",
+        "incident_type": "DHL", 
+        "root_cause": "Manual handling"
+    },
+    {
+        "description": "O Auxiliar Logístico movimentava rack com rodízios contendo carga (peças) com uma transpaleteira elétrica desembarcada para o stage. Ao realizar a manobra para armazenar o rack no piso, a embalagem se desequilibrou. Neste momento, ele tentou segurar a embalagem para evitar o tombamento provocando a queda do material no piso e batendo superficialmente na sua perna sem causar lesão.",
+        "incident_type": "DHL", 
+        "root_cause": "MHE"
+    },
+    {
+        "description": "O Operador de Empilhadeira realizava o processo de troca de bateria com auxílio de um trocador de bateria elétrico (TBE). Quando, ao retirar a bateria do equipamento e se deslocar em direção ao berço para substitui a bateria carregada. Neste momento, ele passou com uma das rodas do trocador fora da chapa reforçada (amarelo) e por cima da grelha da canaleta, que não suportou o peso do trocador com a bateria e tombou, causando avaria na grelha.",
+        "incident_type": "DHL", 
+        "root_cause": "MHE"
+    },
+    {
+        "description": "O Operador de Empilhadeira terceiro “A” estacionou a empilhadeira elétrica na sala de bateria para realizar a troca de bateria. O Coordenador de Operações direcionou o operador “A” para realizar outra atividade e deixar o equipamento no local. Quando, o Operador “A” optou por chamar o Operador de Empilhadeira “B” para o auxiliar na troca da bateria. Neste momento, ao utilizarem uma paleteira manual, os operadores não verificaram o espaço dos garfos em relação a altura da bateria puxando a bateria da empilhadeira provocando a queda da bateria e derramando o líquido interno no piso.",
+        "incident_type": "DHL", 
+        "root_cause": "MHE"
+    },
+    {
+        "description": "O Operador de Empilhadeira movimentava a empilhadeira retratil para a sala de baterias. Ao se aproximar da porta do armazém acionando o controle automático de abertura da porta, ele observou que não foi possível se deslocar na rampa de acesso por conta da baixa carga da bateria da empilhadeira. Neste momento, o operador manobrou a empilhadeira para entrar de ré e a porta atingiu limite de tempo para abertura, levando a porta a baixar e colidir contra a empilhadeira, causando avaria na porta. ",
+        "incident_type": "DHL", 
+        "root_cause": "MHE"
+    }
+
+]
